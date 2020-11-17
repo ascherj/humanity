@@ -6,7 +6,7 @@ export default function Hero({ title, subheading, image }) {
       className="full-width-image margin-top-0"
       style={{
         backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `center`,
         backgroundPositionY: '40%',
