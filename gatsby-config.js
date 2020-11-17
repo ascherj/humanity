@@ -1,16 +1,15 @@
 module.exports = {
   siteMetadata: {
     title: 'Humanity',
-    description:
-      'Website and blog for Humanity',
+    description: 'Website and blog for Humanity',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-plugin-sass',
       options: {
-        indentedSyntax: true
-      }
+        indentedSyntax: true,
+      },
     },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
@@ -80,4 +79,4 @@ module.exports = {
     'gatsby-plugin-netlify', // make sure to keep it last in the array
     'gatsby-plugin-styled-components',
   ],
-}
+};
