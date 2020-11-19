@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Hero({ title, subheading, image }) {
+export default function Hero({ heading, subheading, image }) {
   return (
     <div
       className="full-width-image margin-top-0"
@@ -9,7 +9,7 @@ export default function Hero({ title, subheading, image }) {
           image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `center`,
-        backgroundPositionY: '40%',
+        backgroundSize: 'cover',
       }}
     >
       <div
@@ -18,7 +18,7 @@ export default function Hero({ title, subheading, image }) {
           height: '150px',
           lineHeight: '1',
           justifyContent: 'space-around',
-          alignItems: 'left',
+          alignItems: 'center',
           flexDirection: 'column',
         }}
       >
@@ -33,7 +33,7 @@ export default function Hero({ title, subheading, image }) {
             padding: '0.25em',
           }}
         >
-          {title}
+          {heading}
         </h1>
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"

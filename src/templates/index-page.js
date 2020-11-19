@@ -5,37 +5,32 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import BlogRoll from '../components/BlogRoll';
 import Hero from '../components/Hero';
+import Introduction from '../components/Introduction';
 
-export const IndexPageTemplate = ({ image, title, subheading, mainpitch }) => (
+import HeroImage from '../img/stock_photos/landscape2.jpg';
+
+export const IndexPageTemplate = ({ heading, subheading, intro }) => (
   <div>
-    <Hero title={title} subheading={subheading} image={image} />
+    <Hero heading={heading} subheading={subheading} image={HeroImage} />
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
-                  </div>
-                </div>
+          <div className="content">
+            <Introduction intro={intro} />
+            <div className="column is-12">
+              <h2 className="has-text-weight-semibold is-size-2">
+                Latest stories
+              </h2>
+              <BlogRoll />
+              <div className="column is-12 has-text-centered">
+                <Link className="btn" to="/blog">
+                  Read more
+                </Link>
               </div>
             </div>
+          </div>
+          <div className="columns">
+            <div className="column is-10 is-offset-1" />
           </div>
         </div>
       </div>
@@ -44,10 +39,9 @@ export const IndexPageTemplate = ({ image, title, subheading, mainpitch }) => (
 );
 
 IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
+  heading: PropTypes.string,
   subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
+  intro: PropTypes.string,
 };
 
 const IndexPage = ({ data }) => {
@@ -56,10 +50,9 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
-        title={frontmatter.title}
+        heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
+        intro={frontmatter.intro}
       />
     </Layout>
   );
@@ -79,19 +72,9 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
-        title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        heading
         subheading
-        mainpitch {
-          title
-          description
-        }
+        intro
       }
     }
   }
