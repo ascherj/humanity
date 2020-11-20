@@ -12,25 +12,20 @@ import HeroImage from '../img/stock_photos/landscape2.jpg';
 export const IndexPageTemplate = ({ heading, subheading, intro }) => (
   <div>
     <Hero heading={heading} subheading={subheading} image={HeroImage} />
-    <section className="section section--gradient">
+    <section className="section">
       <div className="container">
-        <div className="section">
-          <div className="content">
-            <Introduction intro={intro} />
-            <div className="column is-12">
-              <h2 className="has-text-weight-semibold is-size-2">
-                Latest stories
-              </h2>
-              <BlogRoll />
-              <div className="column is-12 has-text-centered">
-                <Link className="btn" to="/blog">
-                  Read more
-                </Link>
-              </div>
+        <div className="content">
+          <Introduction intro={intro} />
+          <div className="column is-12">
+            <h2 className="has-text-weight-semibold is-size-2">
+              Latest stories
+            </h2>
+            <BlogRoll />
+            <div className="column is-12 has-text-centered">
+              <Link className="btn" to="/blog">
+                Read more
+              </Link>
             </div>
-          </div>
-          <div className="columns">
-            <div className="column is-10 is-offset-1" />
           </div>
         </div>
       </div>

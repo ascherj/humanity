@@ -5,6 +5,7 @@ import Footer from './Footer';
 import Navbar from './Navbar';
 import './all.sass';
 import useSiteMetadata from './SiteMetadata';
+import GlobalStyles from '../styles/GlobalStyles';
 
 export default function TemplateWrapper({ children }) {
   const { title, description } = useSiteMetadata();
@@ -48,6 +49,7 @@ export default function TemplateWrapper({ children }) {
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
       </Helmet>
+      <GlobalStyles />
       <Navbar />
       <div>{children}</div>
       <Footer />
