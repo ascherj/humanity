@@ -7,8 +7,9 @@ import './all.sass';
 import useSiteMetadata from './SiteMetadata';
 import GlobalStyles from '../styles/GlobalStyles';
 
-export default function TemplateWrapper({ children }) {
+export default function TemplateWrapper({ hideNavbar, children }) {
   const { title, description } = useSiteMetadata();
+
   return (
     <div>
       <Helmet>
@@ -50,7 +51,7 @@ export default function TemplateWrapper({ children }) {
         />
       </Helmet>
       <GlobalStyles />
-      <Navbar />
+      {!hideNavbar ? <Navbar /> : ''}
       <div>{children}</div>
       <Footer />
     </div>

@@ -43,7 +43,7 @@ const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
-    <Layout>
+    <Layout hideNavbar>
       <IndexPageTemplate
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
