@@ -3,6 +3,8 @@ import { navigate } from 'gatsby-link';
 import Layout from '../../components/Layout';
 import Hero2 from '../../components/Hero2';
 
+import HeroImage from '../../img/stock_photos/landscape2.jpg';
+
 function encode(data) {
   return Object.keys(data)
     .map((key) => `${encodeURIComponent(key)}=${encodeURIComponent(data[key])}`)
@@ -37,7 +39,7 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <Hero2 heading="Contact Us" image="/img/stock_photos/landscape2.jpg" />
+        <Hero2 heading="Contact Us" image={HeroImage} />
         <section className="section">
           <div className="container">
             <div className="content">

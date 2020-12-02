@@ -5,15 +5,14 @@ import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import Hero2 from '../components/Hero2';
 
+import HeroImage from '../img/stock_photos/landscape3.jpg';
+
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
     <>
-      <Hero2
-        heading="About Humanity"
-        image="/img/stock_photos/landscape3.jpg"
-      />
+      <Hero2 heading="About Humanity" image={HeroImage} />
       <section className="section section--gradient">
         <div className="container">
           <div className="columns">

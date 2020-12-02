@@ -1,11 +1,13 @@
 import React from 'react';
 
 export default function Hero2({ heading, image }) {
+  console.log(image);
+
   return (
     <div
       className="full-width-image-container margin-top-0"
       style={{
-        backgroundImage: `url('${image}')`,
+        backgroundImage: `url(${image})`,
         backgroundPosition: 'center',
         backgroundSize: 'cover',
       }}
