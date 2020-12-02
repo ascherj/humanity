@@ -1,6 +1,23 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import styled from 'styled-components';
 import github from '../img/github-icon.svg';
+
+const NavbarStyles = styled.nav`
+  .navbar-menu {
+    padding: 0 1rem;
+    /* box-shadow: none !important; */
+    background-color: var(--raisin-black);
+
+    .navbar-item {
+      color: white;
+
+      &:hover {
+        color: var(--maximum-blue-purple);
+      }
+    }
+  }
+`;
 
 export default class Navbar extends React.Component {
   constructor(props) {
@@ -38,7 +55,7 @@ export default class Navbar extends React.Component {
     const { navBarActiveClass } = this.state;
 
     return (
-      <nav
+      <NavbarStyles
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
@@ -89,7 +106,7 @@ export default class Navbar extends React.Component {
             </a>
           </div>
         </div>
-      </nav>
+      </NavbarStyles>
     );
   }
 }

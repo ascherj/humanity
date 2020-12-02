@@ -16,6 +16,11 @@ export const IndexPageTemplate = ({ heading, subheading, intro }) => (
       <div className="container">
         <div className="content">
           <Introduction intro={intro} />
+          <div className="column is-12 has-text-centered">
+            <Link className="btn" to="/about">
+              Read more
+            </Link>
+          </div>
           <div className="column is-12">
             <h2 className="has-text-weight-semibold is-size-2">
               Latest stories
