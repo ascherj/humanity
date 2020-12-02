@@ -12,7 +12,7 @@ const HeroStyles = styled.div`
   .hero-text {
     display: flex;
     position: absolute;
-    top: 25%;
+    top: 30%;
     height: 150px;
     line-height: 1;
     justify-content: space-around;
@@ -32,16 +32,19 @@ const HeroStyles = styled.div`
 `;
 
 const NavStyles = styled.nav`
-  width: 700px;
+  /* width: 700px; */
   position: absolute;
   top: 10%;
 
-  @media (max-width: 960px) {
+  @media (max-width: 768px) {
     width: 500px;
   }
 
   ul {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2rem;
+    justify-items: center;
     width: 100%;
     justify-content: space-between;
     font-size: 2rem;
@@ -53,6 +56,14 @@ const NavStyles = styled.nav`
       &:hover {
         color: var(--cadet);
       }
+    }
+
+    @media (max-width: 600px) {
+      --columns: 2;
+      grid-template-rows: auto auto;
+      grid-template-columns: repeat(var(--columns), 1fr);
+      gap: 0;
+      margin-bottom: 1rem;
     }
   }
 `;
@@ -66,7 +77,7 @@ export default function Hero({ heading, subheading, image }) {
       }}
     >
       <NavStyles>
-        <ul>
+        <ul className="is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
           <li>
             <Link to="/">Home</Link>
           </li>
