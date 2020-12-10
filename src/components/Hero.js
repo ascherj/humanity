@@ -96,7 +96,7 @@ export default function Hero({ heading, subheading, image }) {
         <h1 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
           {heading}
         </h1>
-        <h3 className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen">
+        <h3 className="has-text-weight-bold is-size-6-mobile is-size-5-tablet is-size-4-widescreen">
           {subheading}
         </h3>
       </div>
