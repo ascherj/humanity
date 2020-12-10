@@ -2,12 +2,31 @@ import { Link } from 'gatsby';
 import React from 'react';
 import styled from 'styled-components';
 
+import instagram from '../img/social/instagram.svg';
+
 const HeroStyles = styled.div`
   background-position: center 5%;
   background-size: cover;
   position: relative;
   flex-direction: column;
   justify-content: space-between;
+
+  .social {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    padding: 0;
+
+    a {
+      background-color: transparent;
+      zoom: 2;
+      padding: 0;
+
+      @media (max-width: 768px) {
+        zoom: 1;
+      }
+    }
+  }
 
   .hero-text {
     display: flex;
@@ -47,7 +66,6 @@ const NavStyles = styled.nav`
     justify-items: center;
     width: 100%;
     justify-content: space-between;
-    font-size: 2rem;
     font-weight: bold;
     a {
       transition: color 170ms ease-in-out;
@@ -64,6 +82,7 @@ const NavStyles = styled.nav`
       grid-template-columns: repeat(var(--columns), 1fr);
       gap: 0;
       margin-bottom: 1rem;
+      font-size: 1.5rem !important;
     }
   }
 `;
@@ -92,6 +111,15 @@ export default function Hero({ heading, subheading, image }) {
           </li>
         </ul>
       </NavStyles>
+      <div className="social">
+        <a title="instagram" href="https://www.instagram.com/thehumanitybook/">
+          <img
+            src={instagram}
+            alt="Instagram"
+            style={{ width: '1em', height: '1em' }}
+          />
+        </a>
+      </div>
       <div className="hero-text">
         <h1 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
           {heading}
