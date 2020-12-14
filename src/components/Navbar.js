@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
-import github from '../img/github-icon.svg';
+import instagram from '../img/social/instagram.svg';
 
 const NavbarStyles = styled.nav`
   .navbar-menu {
@@ -16,6 +16,14 @@ const NavbarStyles = styled.nav`
         color: var(--maximum-blue-purple);
       }
     }
+
+    .navbar-end {
+      align-items: center;
+    }
+  }
+
+  .social {
+    padding: 0;
   }
 `;
 
@@ -89,21 +97,20 @@ export default class Navbar extends React.Component {
             <Link className="navbar-item" to="/contact">
               Contact
             </Link>
-            <Link className="navbar-item" to="/contact/examples">
-              Form Examples
-            </Link>
           </div>
           <div className="navbar-end has-text-centered">
-            <a
-              className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <span className="icon">
-                <img src={github} alt="Github" />
-              </span>
-            </a>
+            <div className="social">
+              <a
+                title="instagram"
+                href="https://www.instagram.com/thehumanitybook/"
+              >
+                <img
+                  src={instagram}
+                  alt="Instagram"
+                  style={{ width: '1em', height: '1em' }}
+                />
+              </a>
+            </div>
           </div>
         </div>
       </NavbarStyles>
