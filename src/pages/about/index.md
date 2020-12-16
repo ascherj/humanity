@@ -1,9 +1,8 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About Humanity
 ---
-
 # About the Author
 
 Hi guys! I'm Shayna. Welcome! I am the author of “Humanity”. For the past fews years I would say to my family, “I'm going to write a book...blah blah blah”. One day while walking to work, I decided I was tired of the laundry list of things I said I wanted to try or accomplish but never did. I decided to finally put my money where my mouth was and...well here we are. Yay!
@@ -14,16 +13,18 @@ As I write this, I am currently an English teacher in Spain. Before you think, �
 
 What I've learned is that you can plan all you want, but you seriously never know how it’ll all play out. Which brings me here. To this blog. Total imposter syndrome!
 
-I'm telling you all of this because I want you to feel like you can come on this journey with me and feel comfortable relating to me through these words on your phone or computer screen. Here is a quick list of things that I am interested in so you know what you´re getting yourself into (just to name a few):
+I'm telling you all of this because I want you to feel like you can come on this journey with me and feel comfortable relating to me through these words on your phone or computer screen. Here is a quick list of things that I am interested in so you know what you're getting yourself into (just to name a few):
 
-- Travel
-- Learning Spanish
-- Indie music
-- Vegan food and restaurants
-- Manifesting/Law of Attraction
-- Yoga & meditation
-- The environment
+* Travel
+* Learning Spanish
+* Indie music
+* Vegan food and restaurants
+* Manifesting/Law of Attraction
+* Yoga & meditation
+* The environment
 
 So strap in (does that sound weird? buckle up? better!) as we go on this journey together. And hey, Shayna...if no one is reading this currently, who cares?! At least you are putting your money where your mouth is. ;)
 
 And self-validation and acceptance is really the most important thing that matters at the end of the day. Amiright?? Okay, I promise I'm done now. Enjoy :)
+
+TEST
