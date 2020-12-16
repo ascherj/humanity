@@ -12,7 +12,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 
   return (
     <>
-      <Hero2 heading="About Humanity" image={HeroImage} />
+      <Hero2 heading={title} image={HeroImage} />
       <section className="section section--gradient">
         <div className="container">
           <div className="columns">
