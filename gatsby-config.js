@@ -60,6 +60,13 @@ module.exports = {
               destinationDir: 'static',
             },
           },
+          {
+            resolve: 'gatsby-remark-external-links',
+            options: {
+              target: '_blank',
+              rel: 'nofollow',
+            },
+          },
         ],
       },
     },
