@@ -59,6 +59,8 @@ export default class Footer extends React.Component {
                 <a
                   title="instagram"
                   href="https://www.instagram.com/thehumanitybook/"
+                  target="_blank"
+                  rel="noreferrer noopener"
                 >
                   <img
                     src={instagram}
