@@ -28,5 +28,3 @@ I'm telling you all of this because I want you to feel like you can come on this
 So strap in (does that sound weird? buckle up? better!) as we go on this journey together. And hey, Shayna...if no one is reading this currently, who cares?! At least you are putting your money where your mouth is. ;)
 
 And self-validation and acceptance is really the most important thing that matters at the end of the day. Amiright?? Okay, I promise I'm done now. Enjoy :)
-
-TEST
