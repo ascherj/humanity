@@ -5,7 +5,7 @@ title: About Humanity
 ---
 # About the Author
 
-![](/img/screen-shot-2019-03-06-at-8.01.23-pm.png)
+![test](/img/pic.jpg "test")
 
 Hi guys! I'm Shayna. Welcome! I am the author of “Humanity”. For the past fews years I would say to my family, “I'm going to write a book...blah blah blah”. One day while walking to work, I decided I was tired of the laundry list of things I said I wanted to try or accomplish but never did. I decided to finally put my money where my mouth was and...well here we are. Yay!
 
