@@ -1,11 +1,12 @@
 ---
 templateKey: about-page
 path: /about
-title: About Humanity
+title: About Humanity (coming soon!)
 ---
+
 # About the Author
 
-![test](/img/83018376_10158266584593109_2153499089000464384_o.jpg "test")
+![test](/img/83018376_10158266584593109_2153499089000464384_o.jpg 'test')
 
 Hi guys! I'm Shayna. Welcome! I am the author of “Humanity”. For the past fews years I would say to my family, “I'm going to write a book...blah blah blah”. One day while walking to work, I decided I was tired of the laundry list of things I said I wanted to try or accomplish but never did. I decided to finally put my money where my mouth was and...well here we are. Yay!
 
@@ -17,13 +18,13 @@ What I've learned is that you can plan all you want, but you seriously never kno
 
 I'm telling you all of this because I want you to feel like you can come on this journey with me and feel comfortable relating to me through these words on your phone or computer screen. Here is a quick list of things that I am interested in so you know what you're getting yourself into (just to name a few):
 
-* Travel
-* Learning Spanish
-* Indie music
-* Vegan food and restaurants
-* Manifesting/Law of Attraction
-* Yoga & meditation
-* The environment
+- Travel
+- Learning Spanish
+- Indie music
+- Vegan food and restaurants
+- Manifesting/Law of Attraction
+- Yoga & meditation
+- The environment
 
 So strap in (does that sound weird? buckle up? better!) as we go on this journey together. And hey, Shayna...if no one is reading this currently, who cares?! At least you are putting your money where your mouth is. ;)
 
