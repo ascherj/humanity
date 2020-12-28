@@ -5,6 +5,8 @@ title: About Humanity
 ---
 # About the Author
 
+![](/img/screen-shot-2019-03-06-at-8.01.23-pm.png)
+
 Hi guys! I'm Shayna. Welcome! I am the author of “Humanity”. For the past fews years I would say to my family, “I'm going to write a book...blah blah blah”. One day while walking to work, I decided I was tired of the laundry list of things I said I wanted to try or accomplish but never did. I decided to finally put my money where my mouth was and...well here we are. Yay!
 
 I’ll be up front. I have zero qualifications to write a book or start a blog. I studied animal science in college and to be honest, I took like one English class during that time. My parents even enrolled me in a remedial speed reading class in high school because I could never finish my SATs in time. I just like to take my time and read every word...what can I say?
