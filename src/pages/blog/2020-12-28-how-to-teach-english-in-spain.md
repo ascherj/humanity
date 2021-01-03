@@ -10,7 +10,7 @@ tags:
   - teach
   - abroad
 ---
-![](/img/shayna-ascher-6-copy.jpg)
+![Spanish streets](/img/shayna-ascher-6-copy.jpg "Spanish streets")
 
 So you’re wondering how to teach English in Spain? You’re in the right place. 
 
@@ -34,7 +34,7 @@ I wanted to expand my mind, meet new people, experience a new culture, learn a n
 
 At that time, I had no clue how or when I would make my move but I knew I had to and I was going to. One online course later and tons and tons of research later, I was ready to make my move! One year from that work trip, I quit my sales job and now live in sunny Valencia, wooohoooo!
 
-![](https://lh3.googleusercontent.com/2VF2NC25ZjLyQRCc0OExdIKIKEOoy_xX0XFVmb9vsNZQ-IIab0Mybv0aUh3twuahoc3dL_vr_UlPml2u7M7yMUqE-3pf-u5ypuh9j_VN16JpX6o_ok16QCQ0dzHtwPOwNaPPbgQf)
+![Torres de Serano](https://lh3.googleusercontent.com/2VF2NC25ZjLyQRCc0OExdIKIKEOoy_xX0XFVmb9vsNZQ-IIab0Mybv0aUh3twuahoc3dL_vr_UlPml2u7M7yMUqE-3pf-u5ypuh9j_VN16JpX6o_ok16QCQ0dzHtwPOwNaPPbgQf "Torres de Serano")
 
 Best. Decision. Ever. 
 
@@ -123,7 +123,7 @@ Here are some helpful housing sites:
 
 Some people have had some luck with long term [Air Bnb](https://www.airbnb.com/).
 
-![](https://lh6.googleusercontent.com/4rkOAl3muaBLZ08Ti5Lz1b45HxDp2zowAejNWHLsY9tdnM9VJBhb_k-iGJeRQIhKhFe9ZKzNgOU1h5vFikceF1VKr60i_fSiwanOrGRLMx3Od7jGaZnz84IWuSAJrJCkPE2YW_RA)
+![Ruzafa streets](https://lh6.googleusercontent.com/4rkOAl3muaBLZ08Ti5Lz1b45HxDp2zowAejNWHLsY9tdnM9VJBhb_k-iGJeRQIhKhFe9ZKzNgOU1h5vFikceF1VKr60i_fSiwanOrGRLMx3Od7jGaZnz84IWuSAJrJCkPE2YW_RA "Ruzafa Streets")
 
 **7. Join Facebook groups!** This is a great way to make connections before you even land. You may be able to find potential employment opportunities if you decide to go the “under the table” route. 
 
