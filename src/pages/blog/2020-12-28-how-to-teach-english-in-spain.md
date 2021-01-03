@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: How to Teach English in Spain
 date: 2021-01-03T05:05:07.627Z
-description: " "
+description: " 10 steps to teach English in Spain!"
 featuredpost: false
 featuredimage: /img/shayna-ascher-6.jpg
 tags:
