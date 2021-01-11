@@ -143,7 +143,7 @@ Even downloading Duolingo will give you a nice little head start. I am now conve
 
 **9. Sign up for online teaching sites.** Almost all of my friends who are English teachers in Spain have plenty of time for a side gig. Besides babysitting, teaching English online is one of the most popular options.
 
-I teach on [Cambly](https://www.cambly.com/en/tutors?referralCode=shayna65) and really enjoy it because of its flexible schedule. Check out my review HERE. 
+I teach on [Cambly](https://www.cambly.com/en/tutors?referralCode=shayna65) and really enjoy it because of its flexible schedule. Check out my review [HERE.](https://thehumanitybooks.com/blog/2021-01-10-is-teaching-on-cambly-worth-it/) 
 
 Below are some other popular sites:
 
