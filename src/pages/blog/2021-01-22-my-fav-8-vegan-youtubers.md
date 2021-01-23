@@ -4,7 +4,7 @@ title: My fav 8 Vegan Youtubers
 date: 2021-01-11T17:57:19.359Z
 description: "  "
 featuredpost: false
-featuredimage: /img/shayna-ascher-16-copy.jpg
+featuredimage: /img/flavor_wheel.jpg
 ---
 Newly embarking on a vegan plant-based diet?? Or have you been around the block but are semi-obsessed with watching vegan content on Youtube like I am? 
 
