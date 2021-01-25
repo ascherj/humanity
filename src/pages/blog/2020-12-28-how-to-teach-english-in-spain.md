@@ -109,7 +109,7 @@ There are also fees associated. Please check your embassy’s website for the co
 
 People usually stay in an Air Bnb or hostel for a week while they apartment hunt. Many people line up showings a week or two before they even move out there. 
 
-I did not listen to this advice and I anxiously booked something through [Spotahome](https://www.spotahome.com/) and it turned out well but I would not recommend it! I had some friends that were not as lucky. 
+I did not listen to this advice and I anxiously booked something through [Spotahome](https://www.spotahome.com/referral-welcome/SHAY-4d2m2-T?utm_campaign=referral_tenant&utm_medium=copy) and it turned out well but I would not recommend it! I had some friends that were not as lucky. 
 
 You will naturally start making connections by joining Facebook or WhatsApp groups. People always post housing opportunities in these groups. 
 
@@ -119,7 +119,7 @@ Here are some helpful housing sites:
 
 * [Idealista](https://www.idealista.com/en/)
 * [Badi](https://badi.com/us/)
-* [Spotahome](https://www.spotahome.com/)
+* [Spotahome](https://www.spotahome.com/referral-welcome/SHAY-4d2m2-T?utm_campaign=referral_tenant&utm_medium=copy)
 
 Some people have had some luck with long term [Air Bnb](https://www.airbnb.com/).
 
