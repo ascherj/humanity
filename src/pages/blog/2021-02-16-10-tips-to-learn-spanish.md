@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: 10 tips to learn Spanish
+title: 10 Tips to Learn Spanish
 date: 2021-02-16T17:17:59.995Z
 description: " "
 featuredpost: false
-featuredimage: /img/pexels-danila-giancipoli-1799939.jpg
+featuredimage: /img/chemex.jpg
 tags:
   - spanish
   - tips
