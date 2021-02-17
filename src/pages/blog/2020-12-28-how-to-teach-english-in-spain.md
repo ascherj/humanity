@@ -122,7 +122,7 @@ Here are some helpful housing sites:
 * [Spotahome](https://www.spotahome.com/referral-welcome/SHAY-4d2m2-T?utm_campaign=referral_tenant&utm_medium=copy)
 * [Pisos.com](https://www.pisos.com/)
 
-Some people have had some luck with long term [Air Bnb](https://www.airbnb.com/).
+Some people have had some luck with long term [Air Bnb.](https://www.airbnb.com/c/shaynaa346)
 
 ![Ruzafa streets](https://lh6.googleusercontent.com/4rkOAl3muaBLZ08Ti5Lz1b45HxDp2zowAejNWHLsY9tdnM9VJBhb_k-iGJeRQIhKhFe9ZKzNgOU1h5vFikceF1VKr60i_fSiwanOrGRLMx3Od7jGaZnz84IWuSAJrJCkPE2YW_RA "Ruzafa Streets")
 
