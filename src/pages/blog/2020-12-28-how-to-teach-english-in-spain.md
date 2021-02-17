@@ -163,3 +163,7 @@ I actually made an account and got approved while I was still in the US in Septe
 Plan your trip around this...especially if you are going to be looking for a job once you arrive in Spain!
 
 Okay well, here it is!!! I know this is a TON of info but don’t be overwhelmed. Everyone started out knowing nothing. I hope it’s been helpful...enjoy your journey! I’m excited for you :)
+
+
+
+[You may also like: 10 Tips to Learn Spanish](https://thehumanitybooks.com/blog/2021-02-16-10-tips-to-learn-spanish/)
