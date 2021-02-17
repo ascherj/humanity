@@ -6,7 +6,7 @@ description: Hi guys! Let's jump right into today’s topic of indie/alternative
   music!!!! And even better, music made by Black artists. Right now we live in a
   time of extreme social injustices.
 featuredpost: false
-featuredimage: /img/pexels-bob-clark-1135995.jpg
+featuredimage: /img/pexels-snapwire-6966.jpg
 tags:
   - music
   - indie
