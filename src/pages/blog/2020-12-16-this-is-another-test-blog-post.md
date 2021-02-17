@@ -25,7 +25,7 @@ Over 1,000,000 monthly listeners on Spotify:
 
 1. [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw?si=y0FFywnIQvCf1hWRpilAmQ) 
 
-(picture)
+![](/img/huge_avatar.jpg)
 
 Some of my favorite songs: 
 
@@ -98,7 +98,7 @@ Some of my favorite songs:
 * Stella Brown
 * Daunt
 
-3.  [Melanie Fye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp?si=ZZrcgU08SxKdH68P8vzX0Q)
+3. [Melanie Fye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp?si=ZZrcgU08SxKdH68P8vzX0Q)
 
 (picture)
 
