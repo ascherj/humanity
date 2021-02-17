@@ -4,7 +4,7 @@ title: 3 Ingredient  Natural DIY Face Cream
 date: 2021-01-04T03:12:31.320Z
 description: " "
 featuredpost: false
-featuredimage: /img/705dba03-4d39-4d92-95c1-05e62a295df3.jpg
+featuredimage: /img/0.jpg
 tags:
   - DIY
   - Natural
