@@ -16,25 +16,25 @@ So you’re wondering how to teach English in Spain? You’re in the right place
 
 Some of you may be ready to book your plane ticket tomorrow, while some of you are still toying around with this idea in your mind. No worries! Come one come all. 
 
-I have been teaching English in Spain for almost two years now through the Auxiliares de Conversación program. In this post, I will share with you my journey and what resources I used to turn my crazy idea into my current reality. 
+I have been teaching English in Spain for almost two years now through the Auxiliares de Conversación program. In this post, I will share my journey and what resources I used to turn my crazy idea into my current reality. 
 
 **If you are just looking for the resources and logistic part of this article, scroll a tad and you will find a helpful list :)**
 
-If you want a little extra hype and encouragement keep reading! 
+If you want a little extra hype and encouragement, keep reading! 
 
 If you’re wishing and dreaming of experiencing life in Spain but fear is holding you back...I understand. If you think you do not have the guts to take this leap, let me stop you right there. 
 
-I was what you call a ‘homebody’ just a few years ago. I grew up, went to college, and worked in the DC area my whole life. I would go home every Sunday in college and for the next two years after graduation. 
+I was what you call a ‘homebody’ just a few years ago. I grew up, went to college, and worked in the DC area my whole life. I went home every Sunday in college and for the next two years after graduation. 
 
-Once I broke the news to my 3 roommates that I would not be renewing our lease, they said that I was the last person they thought would be a flight risk.
+Once I broke the news to my 3 roommates that I would not be renewing our lease, they said that I was the last person they thought would be a flight risk haha.
 
 The back story is that I went on a work trip to Barcelona. While I was there, something clicked and I realized that I have been in a DC bubble my whole life. 
 
 I wanted to expand my mind, meet new people, experience a new culture, learn a new language, the whole shebang. 
 
-At that time, I had no clue how or when I would make my move but I knew I had to and I was going to. One online course later and tons and tons of research later, I was ready to make my move! One year from that work trip, I quit my sales job and now live in sunny Valencia, wooohoooo!
+At that time, I had no clue how or when I would make my move but I knew I had to and I was going to. One online course later and tons and tons of research later, I was ready to make my move! One year from that work trip, I quit my sales job and now live in sunny Valencia... wooohoooo!
 
-![Torres de Serano](https://lh3.googleusercontent.com/2VF2NC25ZjLyQRCc0OExdIKIKEOoy_xX0XFVmb9vsNZQ-IIab0Mybv0aUh3twuahoc3dL_vr_UlPml2u7M7yMUqE-3pf-u5ypuh9j_VN16JpX6o_ok16QCQ0dzHtwPOwNaPPbgQf "Torres de Serano")
+![Torres de Serranos](https://lh3.googleusercontent.com/2VF2NC25ZjLyQRCc0OExdIKIKEOoy_xX0XFVmb9vsNZQ-IIab0Mybv0aUh3twuahoc3dL_vr_UlPml2u7M7yMUqE-3pf-u5ypuh9j_VN16JpX6o_ok16QCQ0dzHtwPOwNaPPbgQf "Torres de Serranos")
 
 Best. Decision. Ever. 
 
@@ -44,14 +44,14 @@ Here are the steps I followed along the way:
 
 **1. Make sure you have a passport**. One that will not expire while you are in Spain (or whatever country you may choose). I know this is common sense but hey ya never know!
 
-**2.TEFL certification**. TEFL stands for teaching English as a foreign language. So depending on which country you want to teach in or which program you want to teach through, there may be different TEFL requirements. I went through [International TEFL Academy (ITA).](https://www.internationalteflacademy.com/lp-referral-program?grsf=cnj975)
+**2.TEFL certification**. TEFL stands for teaching English as a foreign language. Depending on which country you want to teach in or which program you want to teach through, there may be different TEFL requirements. I went through [International TEFL Academy (ITA).](https://www.internationalteflacademy.com/lp-referral-program?grsf=cnj975)
 
 My course was an 11-week online course that I did while also working full time.
 
 I will admit, this TEFL program is a little on the expensive side but after a lot of research I ultimately decided with this company because:
 
 * **Student Affairs Advisor** - You get assigned an advisor FOR LIFE to help you with the job search process.
-* **Country specific Facebook groups** - There is a specific Facebook group for a ton of countries with alumni that are teaching or have taught there. There you can find job opportunities, tips, and instant friends, especially if you are moving to that country alone! 
+* **Country-specific Facebook groups** - There is a specific Facebook group for a ton of countries with alumni that are teaching or have taught there. There, you can find job opportunities, tips, and instant friends, especially if you are moving to that country alone! 
 * **The endless online resources** - There are ample resources at your fingertips. Job search guidance manuals, country-specific guides, etc.
 * **They’re actually legit** and are recognized and accepted worldwide. This certification allows you to teach in Asia, Europe, Latin America, and the Middle East.
 
@@ -59,11 +59,11 @@ Apparently, they are offering flexible payment plans now due to Covid. They may 
 
 I am sure there are also plenty of other reputable TEFL certification companies that people love but I can not speak to any of them since I have only taken ITA’s course. 
 
-The Auxiliares de Conversación program or also called The North American Language and Culture Assistants Program is the government program that I am currently teaching through. This program only requires a college degree or for you to be in your junior or senior year of  BA or BS program. They do not require a TEFL certification. 
+The Auxiliares de Conversación program or also called The North American Language and Culture Assistants Program is the government program that I am currently teaching through. This program only requires a college degree or for you to be in your junior or senior year of a BA or BS program. They do not require a TEFL certification. 
 
 I still am TEFL certified because I was not 100% sure which country I wanted to end up in or what their requirements might have been. 
 
-The program I teach with is only about 16 hours a week so I have ample time for a second job. I have done private tutoring lessons and have worked ‘under the table’ at private after school English academies. 
+The program I teach with is only about 16 hours a week so I have ample time for a second job. I have done private tutoring lessons and have worked ‘under the table’ at private after-school English academies. 
 
 Having a TEFL on your resume will only enhance your opportunities for finding a second job; especially if you do not have a college degree!
 
@@ -73,7 +73,7 @@ TEFL certifications are also valid for life! Once you take the leap to teach abr
 
 For this move, you will need a TEFL certification..so in my opinion, it is always nice to have. 
 
-**3. Decide on which program!** I went through [The Auxiliares de Conversación program or also called The North American Language and Culture Assistants Program](https://www.educacionyfp.gob.es/eeuu/convocatorias-programas/convocatorias-eeuu/nalcap.html). You can click HERE to read about my experience. 
+**3. Decide on which program!** I went through [The Auxiliares de Conversación program or also called The North American Language and Culture Assistants Program](https://www.educacionyfp.gob.es/eeuu/convocatorias-programas/convocatorias-eeuu/nalcap.html). 
 
 Here are some other programs that I am aware of in Spain:
 
@@ -93,7 +93,7 @@ If you want to teach at private academies legally, many people also enroll in cl
 
 I do not have much information about the other programs listed above but I do know that some of them may have fees associated.
 
-**4. Make a budget.** I made a monthly sample budget based on my experience. This will vary based on your circumstances. Some people will come straight from college while others have a few year’s savings under their belt. 
+**4. Make a budget.** This will vary based on your circumstances. Some people will come straight from college while others have a few year’s savings under their belt. 
 
 I will warn you, if you choose the program that I am in, they will pay late!!!!! Some regions will pay on time but I am currently in Valencia and I would STRONGLY encourage you to move with at least a couple of month’s savings.
 
@@ -120,6 +120,7 @@ Here are some helpful housing sites:
 * [Idealista](https://www.idealista.com/en/)
 * [Badi](https://badi.com/us/)
 * [Spotahome](https://www.spotahome.com/referral-welcome/SHAY-4d2m2-T?utm_campaign=referral_tenant&utm_medium=copy)
+* [Pisos.com](https://www.pisos.com/)
 
 Some people have had some luck with long term [Air Bnb](https://www.airbnb.com/).
 
@@ -135,15 +136,15 @@ I live in the center of Valencia and here are some examples of pages that I am a
 * [Auxiliares de Conversación en Valencia](https://www.facebook.com/groups/auxiliaresVLC)
 * [Expats in Valencia](https://www.facebook.com/groups/expatsinvalenciacommunity) 
 
-**8. Start learning Spanish!** I’m not talking anything too advanced...although the more the merrier. I moved to Spain only knowing the basics. “Hello, how are you”, “Where’s the bathroom”, “left”, “right”, you get the point. 
+**8. Start learning Spanish!** I’m not talking about anything too advanced...although the more the merrier. I moved to Spain only knowing the basics. “Hello, how are you”, “Where’s the bathroom”, “left”, “right”, you get the point. 
 
 But I will say, even my bare minimum Spanish knowledge was helpful in the beginning.
 
-Even downloading Duolingo will give you a nice little head start. I am now conversational in Spanish and I made a list of tips that were/are crucial to my learning, HERE. 
+Even downloading Duolingo will give you a nice little head start. I am now conversational in Spanish and I made a list of tips that were/are crucial to my learning, [HERE](https://thehumanitybooks.com/blog/2021-02-16-10-tips-to-learn-spanish/). 
 
 **9. Sign up for online teaching sites.** Almost all of my friends who are English teachers in Spain have plenty of time for a side gig. Besides babysitting, teaching English online is one of the most popular options.
 
-I teach on [Cambly](https://www.cambly.com/en/tutors?referralCode=shayna65) and really enjoy it because of its flexible schedule. Check out my review [HERE.](https://thehumanitybooks.com/blog/2021-01-10-is-teaching-on-cambly-worth-it/) 
+I teach on [Cambly](https://www.cambly.com/en/tutors?referralCode=shayna65) and really enjoy it because of it's flexible schedule. Check out my review [HERE.](https://thehumanitybooks.com/blog/2021-01-10-is-teaching-on-cambly-worth-it/) 
 
 Below are some other popular sites:
 
