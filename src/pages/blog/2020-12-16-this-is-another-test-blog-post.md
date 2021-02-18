@@ -34,7 +34,7 @@ Some of my favorite songs: 
 
 2. [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4?si=E-ubi3LlTy-L6tyR2o4TVg)
 
-(picture)
+![Dijon live.](https://images.sk-static.com/images/media/profile_images/artists/1620772/huge_avatar)
 
 Some of my favorite songs: 
 
