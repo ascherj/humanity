@@ -52,7 +52,7 @@ Some of my favorite songs: 
 
 4. [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp?si=jCAiSkPFTUmPVMH2E7WmEg)
 
-(picture)
+![Image result for toro y moi wiki](https://upload.wikimedia.org/wikipedia/commons/9/9b/Toro_y_moi.jpg)
 
 Some of my favorite songs: 
 
