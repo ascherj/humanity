@@ -44,9 +44,7 @@ Some of my favorite songs: 
 
 3. [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil?si=drWCyv8PQlKgB9_w-ZQfsQ)
 
-(Picture)
-
-Some of my favorite songs: 
+![File:Cautious Clay.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cautious_Clay.jpg/800px-Cautious_Clay.jpg)Some of my favorite songs: 
 
 * Cold War
 * Agreeable
