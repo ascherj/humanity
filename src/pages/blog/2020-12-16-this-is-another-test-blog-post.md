@@ -110,7 +110,7 @@ Some of my favorite songs:
 
 4. [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7?si=vxxscjmIToSbbboSWhzstA)
 
-(picture)
+![](/img/mahmundi_-_mahmundi_-_2016.jpg)
 
 Some of my favorite songs:
 
