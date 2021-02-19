@@ -91,7 +91,7 @@ Some of my favorite songs: 
 
 2. [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86?si=WQ6JoyQsQaS0Mn65P1LXjg)
 
-(picture)
+![](/img/cd3f074beb38f35748bdc4071c4211.jpg)
 
 Some of my favorite songs:
 
