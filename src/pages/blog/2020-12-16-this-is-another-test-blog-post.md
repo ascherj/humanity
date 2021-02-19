@@ -44,7 +44,9 @@ Some of my favorite songs: 
 
 3. [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil?si=drWCyv8PQlKgB9_w-ZQfsQ)
 
-![File:Cautious Clay.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cautious_Clay.jpg/800px-Cautious_Clay.jpg)Some of my favorite songs: 
+![File:Cautious Clay.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cautious_Clay.jpg/800px-Cautious_Clay.jpg)
+
+Some of my favorite songs: 
 
 * Cold War
 * Agreeable
@@ -61,7 +63,7 @@ Some of my favorite songs: 
 
 5. [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx?si=mq94CJo5RHCLrmaNR4xkrg)
 
-(picture)
+![Arlo Parks](/img/1200px-arlo_parks_-cropped-.jpg "Arlo Parks")
 
 Some of my favorite songs: 
 
