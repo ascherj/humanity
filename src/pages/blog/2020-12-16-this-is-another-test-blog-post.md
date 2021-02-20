@@ -21,7 +21,7 @@ Streaming these artists' songs is one of the easiest ways to support them. They 
 
 Even though the streaming service’s payout methods may not be the best (that's a whole other topic), every little bit counts! 
 
-Over 1,000,000 monthly listeners on Spotify:
+**Over 1,000,000 monthly listeners on Spotify:**
 
 1. [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw?si=y0FFywnIQvCf1hWRpilAmQ) 
 
@@ -80,7 +80,7 @@ Some of my favorite songs:
 * Wait a Minute!
 * Gajendra
 
-Under 1,000,000 monthly listeners:
+**Under 1,000,000 monthly listeners:**
 
 1. [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9?si=EeV2G9JCSpuO9FqBTcFUfQ) (now million)
 
@@ -136,9 +136,7 @@ Some of my favorite songs:
 
 7. [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR?si=nRIKk4ILQO-YvBlGrVYXtQ)
 
-(picture)
-
-Some of my favorite songs:
+![Image result for spencer. music](https://f4.bcbits.com/img/0021035923_10.jpg)Some of my favorite songs:
 
 * WHEN U COME AROUND
 *  OPEN WIDE
