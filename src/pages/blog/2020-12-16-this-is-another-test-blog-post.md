@@ -80,16 +80,18 @@ Some of my favorite songs:
 * Wait a Minute!
 * Gajendra
 
-**Under 1,000,000 monthly listeners:**
+7. [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9?si=EeV2G9JCSpuO9FqBTcFUfQ) 
 
-1. [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9?si=EeV2G9JCSpuO9FqBTcFUfQ) (now million)
+![Image result for joy oladokun wikipedia](https://pbs.twimg.com/profile_images/1357682290533482497/P6vKj0Ff.jpg)
 
 Some of my favorite songs: 
 
 * mighty die young
 * i see america
 
-2. [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86?si=WQ6JoyQsQaS0Mn65P1LXjg)
+**Under 1,000,000 monthly listeners:**
+
+1. [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86?si=WQ6JoyQsQaS0Mn65P1LXjg)
 
 ![Jelani Aryeh](/img/cd3f074beb38f35748bdc4071c4211.jpg "Jelani Aryeh")
 
@@ -151,8 +153,6 @@ Some of my favorite songs:
 9. [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax?si=w9VCNzklRA-ga6ij0yEz0g)
 
 ![Image result for chiiild music](https://e-cdns-images.dzcdn.net/images/artist/a59c05de41d0b0391471cdd84b467df8/264x264.jpg)
-
-
 
 Some of my favorite songs:
 
