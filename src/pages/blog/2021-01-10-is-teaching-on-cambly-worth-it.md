@@ -20,7 +20,7 @@ I teach just for some extra cash in my free time. It’s a set rate of $10.20 pe
 
 They just rolled out a new Camby Kids platform that pays a rate of $12 per hour. This platform is geared towards kids from ages 4-15. This platform has a set curriculum and is more formal than the regular Cambly platform. I am not a part of the kid’s program so I am just going to focus on the regular Cambly platform for this post. 
 
-The students have different payment plans. They pay for the number of minutes they want. If you leave your schedule open you can get booked, for example for a 15minute time slot or a 1-hour time slot. It just depends on the student. 
+The students have different payment plans. They pay for the number of minutes they want. If you leave your schedule open you can get booked, for example, for a 15-minute time slot or a 1-hour time slot. It just depends on the student. 
 
 Pros:
 
