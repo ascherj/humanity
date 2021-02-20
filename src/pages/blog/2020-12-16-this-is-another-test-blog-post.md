@@ -72,7 +72,7 @@ Some of my favorite songs: 
 
 6. [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF?si=dEPmlFhyS6iuc8ltUCtLxA)
 
-![WILLOW](/img/nintchdbpict000367059089-e1511635637570.jpg "WILLOW")
+(picture)
 
 Some of my favorite songs:
 
@@ -129,7 +129,9 @@ Some of my favorite songs:
 
 6. [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX?si=GlTs0eIoQUiUzuB4LuK4kw)
 
-(picture)
+![Image result for appleby music](https://chicagocreatives.files.wordpress.com/2018/11/avatars-000471712434-212ur8-t500x500.jpg?w=500)
+
+
 
 Some of my favorite songs:
 
