@@ -143,9 +143,7 @@ Some of my favorite songs:
 
 8. [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr?si=2_L_A8mbTaedWvEbe5tCYA)
 
-(picture)
-
-Some of my favorite songs:
+![Image result for mormor music wiki](https://cdn.pitchfork.com/longform/762/MorMor.jpg)Some of my favorite songs:
 
 * Whatever Comes to Mind
 * Don’t Cry
