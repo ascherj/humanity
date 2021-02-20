@@ -150,7 +150,9 @@ Some of my favorite songs:
 
 9. [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax?si=w9VCNzklRA-ga6ij0yEz0g)
 
-(picture)
+![Image result for chiiild music](https://e-cdns-images.dzcdn.net/images/artist/a59c05de41d0b0391471cdd84b467df8/264x264.jpg)
+
+
 
 Some of my favorite songs:
 
