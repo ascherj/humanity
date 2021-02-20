@@ -73,6 +73,8 @@ TEFL certifications are also valid for life! Once you take the leap to teach abr
 
 For this move, you will need a TEFL certification..so in my opinion, it is always nice to have. 
 
+![](/img/pexels-andrea-piacquadio-3769138.jpg)
+
 **3. Decide on which program!** I went through [The Auxiliares de Conversación program or also called The North American Language and Culture Assistants Program](https://www.educacionyfp.gob.es/eeuu/convocatorias-programas/convocatorias-eeuu/nalcap.html). 
 
 Here are some other programs that I am aware of in Spain:
@@ -163,7 +165,5 @@ I actually made an account and got approved while I was still in the US in Septe
 Plan your trip around this...especially if you are going to be looking for a job once you arrive in Spain!
 
 Okay well, here it is!!! I know this is a TON of info but don’t be overwhelmed. Everyone started out knowing nothing. I hope it’s been helpful...enjoy your journey! I’m excited for you :)
-
-
 
 [You may also like: 10 Tips to Learn Spanish](https://thehumanitybooks.com/blog/2021-02-16-10-tips-to-learn-spanish/)
