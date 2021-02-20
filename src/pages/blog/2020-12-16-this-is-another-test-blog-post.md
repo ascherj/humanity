@@ -72,7 +72,7 @@ Some of my favorite songs: 
 
 6. [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF?si=dEPmlFhyS6iuc8ltUCtLxA)
 
-(picture)
+![](/img/nintchdbpict000367059089-e1511635637570.jpg)
 
 Some of my favorite songs:
 
