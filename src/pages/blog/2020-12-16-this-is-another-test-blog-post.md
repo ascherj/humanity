@@ -102,8 +102,6 @@ Some of my favorite songs:
 
 ![Image result for melanie faye music wiki](https://cdn.celebsagewiki.com/images/14/melanie-faye.jpg)
 
-
-
 Some of my favorite songs:
 
 * Eternally 12
@@ -121,9 +119,7 @@ Some of my favorite songs:
 
 5. [M.A.G.S](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s?si=svr5rxHsRGuu4lg_lFvohQ)
 
-(picture)
-
-Some of my favorite songs:
+![Image result for M.A.G.S music](https://f4.bcbits.com/img/a2759647370_10.jpg)Some of my favorite songs:
 
 * Drugs
 * Sunrise
