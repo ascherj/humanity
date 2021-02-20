@@ -72,3 +72,5 @@ Cambly did send out an email saying that they are changing this is the new year 
 If after reading this, you think Cambly sounds like the right platform for you, [CLICK HERE](https://www.cambly.com/en/tutors?referralCode=shayna65) to set up an account! Cambly also doesn’t have a minimum requirement so you could always try a few hours and see how it goes!
 
 Happy teaching :)
+
+[You may also like: How to Teach English in Spain](https://thehumanitybooks.com/blog/2020-12-28-how-to-teach-english-in-spain/)
