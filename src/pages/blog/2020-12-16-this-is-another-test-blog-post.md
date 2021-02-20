@@ -98,9 +98,11 @@ Some of my favorite songs:
 * Stella Brown
 * Daunt
 
-3. [Melanie Fye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp?si=ZZrcgU08SxKdH68P8vzX0Q)
+3. [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp?si=ZZrcgU08SxKdH68P8vzX0Q)
 
-(picture)
+![Image result for melanie faye music wiki](https://cdn.celebsagewiki.com/images/14/melanie-faye.jpg)
+
+
 
 Some of my favorite songs:
 
@@ -130,8 +132,6 @@ Some of my favorite songs:
 6. [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX?si=GlTs0eIoQUiUzuB4LuK4kw)
 
 ![Image result for appleby music](https://chicagocreatives.files.wordpress.com/2018/11/avatars-000471712434-212ur8-t500x500.jpg?w=500)
-
-
 
 Some of my favorite songs:
 
