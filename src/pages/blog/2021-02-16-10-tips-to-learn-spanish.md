@@ -51,7 +51,7 @@ They also have great customer service :)
 
 3. [Extra en Espanol series](https://www.youtube.com/watch?v=Dfb9-ZTCA-E&list=PLLVULqsElvki_riI1ld0QhZJx1wom5Ply&index=1&ab_channel=SpanishThailand)
 
-This is the television series that you have been waiting for!!! I know that many series on Netflix for example are too advanced to watch without solely relying on subtitles. This is a series that you can watch for free on YouTube with just the perfect level and speed of Spanish! It’s goofy and corky but perfect for beginners trying to get to that next level. 
+This is the television series that you have been waiting for!!! I know that many series on Netflix are too advanced to watch without solely relying on subtitles. This is a series that you can watch for free on YouTube with just the perfect level and speed of Spanish! It’s goofy and corky but perfect for beginners trying to get to that next level. 
 
 I recommend watching it with Spanish subtitles on so you can follow along or look up any unfamiliar words. My only complaint is that it ended abruptly and I wish there were more episodes!!
 
@@ -59,7 +59,7 @@ I recommend watching it with Spanish subtitles on so you can follow along or loo
 
 This one is an easy one and great for beginner beginners. Basically, put a little sticky note in Spanish on everything and anything. Your mirror, lamp, lightswitch, draws, windows, shower curtain, you name it and you get the point. 
 
-The constant repetition of viewing these sticky notes daily will drill these words into your brain more than you think! Some nice subconscious learning there for you ;)
+The constant repetition of viewing these sticky notes daily will drill these words into your brain more than you think! Some nice subconscious learning there for ya ;)
 
 5. Language exchanges
 
