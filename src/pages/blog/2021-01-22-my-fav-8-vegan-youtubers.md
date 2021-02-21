@@ -39,7 +39,7 @@ He promised his fans that once he hit 1 million subscribers he would open up a r
 
 Earthing Ed is IMPORTANT. Probably the most important vegan YouTuber on this list. He is an activist, educator, and public speaker. 
 
-He advocates for animals and the environment with every morsel in his body. Some of his most popular videos are him debating with farmers or non-vegans (add link?). He has comebacks and uses logic that I would never have thought of. He has helped my journey tremendously when I would try to explain why I eat a plant-based diet or would have someone challenge my way of living. (You don't owe anyone anything but still, it's nice to have this information in your arsenal).
+He advocates for animals and the environment with every morsel in his body. Some of his most popular videos are him [debating with farmers or non-vegans.](https://www.youtube.com/watch?v=Df3o-0zJ_Vs&ab_channel=EarthlingEd) He has comebacks and uses logic that I would never have thought of. He has helped my journey tremendously when I would try to explain why I eat a plant-based diet or would have someone challenge my way of living. (You don't owe anyone anything but still, it's nice to have this information in your arsenal).
 
 He even offers a [free-ebook](https://earthlinged.org/ebook) with 30 non-vegan excuses and how to respond to them. I would also suggest watching [this video](https://www.youtube.com/watch?v=Z3u7hXpOm58) of his that kind of flip my world upside down at the beginning of my vegan journey. 
 
@@ -80,7 +80,5 @@ This channel is definitely less cooking/meal-based so skip over it if that is yo
 Edgy veg!!!! She’s always rockin cool hair colors and outfits as well. The reason I love watching her videos is because she tries a lot of other vegan YouTubers’ recipes. She’ll have a video theme, for example, lasagna, and then test out three well-known vegan YouTubers. I like this for three reasons. One, if you are trying to find the perfect recipe, you don’t have to waste time or resources because Candace (edgy veg), has already done it for you! Two, you get exposed to other vegan YouTubers you might not have known existed. And three, it makes me feel warm inside for some reason to see all the YouTubers intermingle. It’s like one little vegan family. On the internet. Who may have never met before. Okay maybe that’s just me?? Anywhooooo, check her out if you like watching other people try new exciting vegan food!
 
 Enjoy!!! Hopefully you will find some vegan motivation during this slow quarantine :)
-
-
 
 [You may also like: Top 3 Influential Books](https://thehumanitybooks.com/blog/2021-02-16-top-3-influential-books/)
