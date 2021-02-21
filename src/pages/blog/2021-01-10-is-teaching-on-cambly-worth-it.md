@@ -31,15 +31,15 @@ Pros:
 
 ![](https://lh5.googleusercontent.com/FDPqYbsqXae7ez9ULcAcrn0N8AXIhHhho6c5AoTBi8UgU58qspQ9ajzpLQ8D7_jJXfkzxrTD3yeDGRovVfyJh3WPEujkn45YRBLVxAPw3neOnjv-Y-NWEPQXcXo8L6ZbrEOs9wGY)
 
-Disclaimer: Depending on which hours you sign up for will determine how busy you will be! Sometimes you can talk nonstop for the whole hour and sometimes you have to wait and wait until they send you someone. They guarantee to pay you 15 minutes of the hour even if you do not end up receiving a student within that hour. The rest of the money you make depends on the number of minutes you talk. 
-
-Not receiving a student has been very rare in my experience but it can happen.
-
-This is a great option though if you are bored and have an hour to kill or let’s say your schedule changes and you have a last-minute free hour. 
-
-You can sign up for priority hours very last minute too! Once I signed up 5 minutes before my slot. You can also plan a week in advance if you would like. 
-
-The more you teach the more priority slots will open up for you. **This is the MOST important and effective way to build a client base.** I relied on priority hours for the first month while I built up my rating and met new potential regular students. After that, I would get regular weekly bookings.
+> Disclaimer: Depending on which hours you sign up for will determine how busy you will be! Sometimes you can talk nonstop for the whole hour and sometimes you have to wait and wait until they send you someone. They guarantee to pay you 15 minutes of the hour even if you do not end up receiving a student within that hour. The rest of the money you make depends on the number of minutes you talk. 
+>
+> Not receiving a student has been very rare in my experience but it can happen.
+>
+> This is a great option though if you are bored and have an hour to kill or let’s say your schedule changes and you have a last-minute free hour. 
+>
+> You can sign up for priority hours very last minute too! Once I signed up 5 minutes before my slot. You can also plan a week in advance if you would like. 
+>
+> The more you teach the more priority slots will open up for you. **This is the MOST important and effective way to build a client base.** I relied on priority hours for the first month while I built up my rating and met new potential regular students. After that, I would get regular weekly bookings.
 
 * You do not have to prepare anything. Now, this can be a good or bad thing depending on the type of person you are. I usually just have conversation-based classes. This means that I just chat with people about anything and everything. 
 
