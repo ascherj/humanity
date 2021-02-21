@@ -56,7 +56,7 @@ The author is a doctor who was hit by a car and was told he may be paralyzed for
 
 This book will tell you exactly how you can tap into your own power that exists in ALL of us. Yes all of us! You don’t need to be a guru or master of any sort to apply his techniques. It's packed full of real-life case studies as well.
 
-You’ll find different meditations and practices that you can implement. For example, I made a mind movie (something you will learn about in his book) that I now watch first thing in the morning and last thing at night to help me manifest my future! It is basically like a movie version of a vision board that is paired with a song in your life that brings you feelings of joy and gratitude. This has been a really grounding technique that has become apart of my daily gratitude practice. 
+You’ll find different meditations and practices that you can implement. For example, I made a mind movie (something you will learn about in his book) that I now watch first thing in the morning and last thing at night to help me manifest my future! It is basically like a movie version of a vision board that is paired with a song in your life that brings you feelings of joy and gratitude. This has been a really grounding technique that has become a part of my daily gratitude practice. 
 
 Through elevated emotions and a clear vision of what you want in your future (the more specific the better!), you actually have the power to attract those experiences to you. Basically your body and brain and tricked into thinking that it has already happened. I know this sounds crazy but trust me there is wayyyyyy more science behind it.
 
