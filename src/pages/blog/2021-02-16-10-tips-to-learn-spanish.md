@@ -6,8 +6,11 @@ description: " "
 featuredpost: false
 featuredimage: /img/chemex.jpg
 tags:
-  - spanish
-  - tips
+  - Spanish
+  - Tips
+  - Resources
+  - Travel
+  - Spain
 ---
 Bienvenidos!! So you’re doing research on how to learn Spanish? Maybe this is this first article you landed on in your quest or if you are like me, the 854th article. Regardless, I am happy you are here!
 
@@ -99,13 +102,19 @@ Even if you are not actively listening to every word, any exposure helps!!!!!
 
 10. Change your phone language
 
-Last but not least, one of my favorite simple tips, change your phone language into Spanish! The most important part is commitment. Heads up, it WILL get super frustrating at points, especially when you want a quick google answer but I promise you it is worth it.
+Last but not least, one of my favorite simple tips, change your phone language into Spanish! The most important part is commitment. Heads up, it WILL get super frustrating at points, especially when you want a quick google answer, but I promise you it is worth it.
 
 There will be a learning curve but once you get past that, you will notice a difference. I passively learned verbs like send, deliver, erase, unlock, etc. You will be very pleasantly surprised by all the new vocabulary you will learn just by using your apps in Spanish. 
 
+
+
+In conclusion...
+
 There is not a magic program that will help you learn Spanish in X amount of weeks or even months. Read that again. Trust me, I almost fell prey to a few programs that promised fluency in a few months. 
 
-You have to put in the work...it is as simple as that. And the most important thing is you have to be ready! Nobody can force you to be motivated to learn. You have to become slightly obsessed with the idea of learning. For Pete’s sake, you even have to visualize yourself in the future being able to have full-blown conversations with local native speakers. I found that my journey was a very personal, mental, and even emotional one. 
+You have to put in the work...it is as simple as that. And the most important thing is you have to be ready! Nobody can force you to be motivated to learn. You have to become slightly obsessed with the idea of learning. For Pete’s sake, you even have to visualize yourself in the future being able to have full-blown conversations with local native speakers. 
+
+I find that my journey is a very personal, mental, and even emotional one. 
 
 You CANNOT compare yourself to anyone else’s learning progress. People’s brains work differently, some people have more time than others, more money to invest...everyone’s circumstances are different so you cannot get discouraged!
 
