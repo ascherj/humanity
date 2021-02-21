@@ -66,7 +66,7 @@ This will bring your mindfulness and consciousness to a whole other level that I
 
 3. The Wim Hof Method by Wim Hof 
 
-![Image result for The Wim Hof Method by Wim Hof](https://images-na.ssl-images-amazon.com/images/I/81zPAiGdOFL.jpg)If you've never heard of Wim Hof aka The Iceman, allow me to introduce you to him. He is known for his tolerance to extreme temperatures. He holds world records for swimming under ice and long contact exposure to ice. He walks barefoot in the snow and climbs mountains in nothing but shorts.
+![Image result for The Wim Hof Method by Wim Hof](https://images-na.ssl-images-amazon.com/images/I/81zPAiGdOFL.jpg)If you've never heard of Wim Hof aka The Iceman, allow me to introduce you to him. He is known for his high tolerance to extreme temperatures. He holds world records for swimming under ice and long contact exposure to ice. He walks barefoot in the snow and climbs mountains in nothing but shorts.
 
 His success is attributed to the method that he has developed throughout the years. There are three pillars: [his breathing technique](https://www.youtube.com/watch?v=tybOi4hjZFQ), cold showers/cold exposure, and commitment/mindset. 
 
