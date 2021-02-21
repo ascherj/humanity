@@ -30,7 +30,7 @@ If you are interested in moving to Spain, check out my article: [How to Teach En
 
 Some of these are more covid friendly than others and all of these tips are free besides one!
 
-Let’s dive in.
+# Let’s dive in.
 
 1. Coffee Break Spanish
 
