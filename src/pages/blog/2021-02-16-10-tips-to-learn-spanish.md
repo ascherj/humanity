@@ -4,7 +4,7 @@ title: 10 Tips to Learn Spanish
 date: 2021-02-16T17:17:59.995Z
 description: " "
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/pexels-photo-5409047.jpg
 tags:
   - Spanish
   - Tips
