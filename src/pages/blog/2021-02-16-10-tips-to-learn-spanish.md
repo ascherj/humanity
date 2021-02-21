@@ -83,13 +83,11 @@ You can also do this while you pass by people in the streets. Start mimicking th
 
 8. Write song lyrics and translate
 
-During quarantine, I had a lot of time on my hands and one of my teachers from Baselang told me writing down song lyrics in Spanish and translating them into English will help the learning process. 
+During quarantine, I had a lot of time on my hands and one of my teachers from Baselang told me that writing down song lyrics in Spanish and translating them into English will help my learning.
 
 I realized that I barely wrote in Spanish so it was super helpful to see the spelling of common words. Plus, for me, writing helps my brain solidify what I am learning. It was also helpful to see the translation of different phrases. I even started incorporating those lyrics into my everyday vocabulary. 
 
-After listening to the song on repeat, I was able to start singing along which felt like a massive achievement and I felt more official if ya know what I mean :)
-
-If you are interested in some of my favorite Spanish-speaking singers for learning, click here.
+After listening to the song on repeat, I was able to start singing along which felt like a massive achievement. I felt more official if ya know what I mean :)
 
 9. Youtube/Netflix/radio
 
