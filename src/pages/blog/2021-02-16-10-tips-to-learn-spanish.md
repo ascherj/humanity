@@ -86,6 +86,8 @@ This is also a good one if you live in a Spanish-speaking country! Read every si
 
 You can also do this while you pass by people in the streets. Start mimicking the sounds and words they are saying. Do this quietly of course or far enough away from them :)
 
+![](/img/pexels-photo-5059329.jpg)
+
 8. Write song lyrics and translate
 
 During quarantine, I had a lot of time on my hands and one of my teachers from Baselang told me that writing down song lyrics in Spanish and translating them into English will help my learning.
