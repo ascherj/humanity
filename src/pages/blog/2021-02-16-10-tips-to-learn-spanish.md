@@ -73,7 +73,7 @@ I started attending these when my Spanish was VERY basic so do not let your leve
 
 6. Tinder ;)
 
-This one is a good one if you live in a Spanish-speaking country! Going on dates or friend dates is a perfect way to practice your Spanish and immerse yourself in the culture! Even if you are not looking for something romantic there is a friend setting. Go ahead and push yourself out of your comfort zone..ya never know what might happen!
+This one is a good one if you live in a Spanish-speaking country! Going on dates or friend dates is a perfect way to practice your Spanish and immerse yourself in the culture! Even if you are not looking for something romantic, there is a friend setting. Go ahead and push yourself out of your comfort zone..ya never know what might happen!
 
 7. Read signs aloud
 
