@@ -78,13 +78,13 @@ He preaches that everything we ever need in life is within us. This book just fu
 
 I actually started doing his breathing technique and cold exposure every day for a month and a half before I read his book. 
 
-His breathing technique truly changed me by creating discipline and showing me how much more capable I am than I originally thought. I surprised myself in how long I could hold my breath and I have even worked up to 2-minute ice baths. 
+His breathing technique truly changed me by creating discipline and showing me how much more capable I am than I originally thought. I surprised myself in how long I could hold my breath and I have even worked up to 2-minute ice baths. (I know I am not fully submerged in the picture below...it was my first ice bath ever :))
 
 ![ice bath](/img/0.jpg "ice bath")
 
-Don't worry, there is also a lot of science in the book to back him up. I liked doing his exercises before reading the book but not after I have a powerful and intentional  ‘why’ behind my actions. Reading the science behind it allowed me to fully give in and visualize my changing body with each breath. 
+Don't worry, there is also a lot of science in the book to back him up. I liked doing his exercises before reading the book but not after I have a more powerful and intentional  ‘why’ behind my actions. Reading the science behind it allowed me to fully give in and visualize my changing body with each breath. 
 
-I would start to dread turning my shower to cold at the end but now that I know the science behind the amazing immune benefits, I'm excited to do so. 
+I would start to dread turning my shower to cold but now that I know the science behind the amazing immune benefits, I'm excited to do so. 
 
 He even claims that implementing just a little bit of his method is enough to start changing your body chemistry. So this means, there is a little bit for everyone inside. 
 
