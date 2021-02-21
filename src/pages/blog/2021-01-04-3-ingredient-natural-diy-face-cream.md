@@ -11,6 +11,8 @@ tags:
   - Facecream
   - Homemade
   - Cosmetics
+  - Wellness
+  - Health
 ---
 Looking for an all-natural homemade dreamy face cream? One that your face will start rejoicing in song once applied? Look no further.
 
