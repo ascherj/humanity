@@ -41,7 +41,7 @@ Best. Decision. Ever. 
 
 This is how I made everything possible as an **AMERICAN** Citizen. I am not 100% familiar with the legal process if you are from another country but a lot of this information will still be relevant for you.
 
-Here are the steps I followed along the way:
+## Here are the steps I followed along the way:
 
 **1. Make sure you have a passport**. One that will not expire while you are in Spain (or whatever country you may choose). I know this is common sense but hey ya never know!
 
