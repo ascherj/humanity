@@ -63,9 +63,11 @@ The constant repetition of viewing these sticky notes daily will drill these wor
 
 5. Language exchanges
 
-I didn’t actually know these existed until I moved to Spain. Basically, a language exchange or intercambio is a place to meet people who speak other languages, specifically the language you are trying to learn. Chances are, they would love to practise their English too! Most of the ones I have attended have been at bars so you can get a nice glass of wine for some liquid courage! There are two main styles: a set time for English and a set time for Spanish, or there are some more relaxed ones that allow you and the table to flow in and out of whatever language you choose at that moment. Basically, you have the freedom to decide with your group what language to speak.
+I didn’t actually know these existed until I moved to Spain. Basically, a language exchange or intercambio is a place to meet people who speak other languages, specifically the language you are trying to learn. Chances are, they would love to practice their English too! Most of the ones I have attended have been at bars so you can get a nice glass of wine for some liquid courage! 
 
-This is such a great way to also meet new people and experience a new culture! Even if you do not live in Spain, there are language exchanges in a ton of cities! I would do a quick google search or look on the site [Meetup.](https://www.meetup.com/lp/goals?utm_medium=SEM&utm_source=google&utm_campaign=mmrk_adwords_orgacq_us_newyears_branded&utm_term=group&utm_content=lp_goals&gclid=CjwKCAiAr6-ABhAfEiwADO4sffgrXncbOCEYPrnxBezN4-BYy1lb7vMud-a2wXbWusB9DwZP4ek17hoC8w8QAvD_BwE)
+There are two main styles: a set time for English and a set time for Spanish, or there are some more relaxed ones that allow you and the table to flow in and out of whatever language you choose at that moment. Basically, you have the freedom to decide with your group what language to speak.
+
+This is such a great way to also meet new people and experience a new culture! Even if you do not live in Spain, there are language exchanges in a ton of cities! I would do a quick google search or look on the website [Meetup.](https://www.meetup.com/lp/goals?utm_medium=SEM&utm_source=google&utm_campaign=mmrk_adwords_orgacq_us_newyears_branded&utm_term=group&utm_content=lp_goals&gclid=CjwKCAiAr6-ABhAfEiwADO4sffgrXncbOCEYPrnxBezN4-BYy1lb7vMud-a2wXbWusB9DwZP4ek17hoC8w8QAvD_BwE)
 
 I started attending these when my Spanish was VERY basic so do not let your level deter you away from attending. Even just sitting and listening will help tremendously.
 
