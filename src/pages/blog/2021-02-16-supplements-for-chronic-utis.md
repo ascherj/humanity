@@ -18,13 +18,13 @@ I want to preface this by saying I am not a doctor and do not claim that I am. T
 
 Once I have started incorporating my maintenance supplements, I have not had a UTI since. 
 
-After doing research on how bad consistent antibiotics are for your body I decided that I needed another option.
+After doing research on how bad consistent antibiotics are for your body, I decided that I needed another option.
 
 Continued use of antibiotics leads to antibiotic resistance from the bacteria, not to mention some antibiotics contain eggs and petroleum which can feed what you are trying to get rid of in the long run. 
 
-UTIs are caused by a chronic strep infection. It can reside in your bladder, kidneys, ureters, or urethra. 
+UTIs are caused by a chronic strep infection. It can reside dormant in your bladder, kidneys, ureters, or urethra until a trigger comes along. 
 
-I have found that my body is so connected that once I have a UTI, sometimes the strep will travel through my body and I would get a stye in my eye shortly after. It's all connected!!!!! This article is UTI-focused but you can use a lot of this information for other underlying connected issues.
+I have found that my body is so connected that once I have a UTI, sometimes the strep will travel through my body and I will get a stye in my eye shortly after. It's all connected!!!!! This article is UTI-focused but you can use a lot of this information for other underlying connected issues.
 
 I will break this article up into 4 sections: what I do when I have a mild UTI, what supplements I take for maintenance, what foods I avoid when I have a UTI, and what foods I eat extra of when I have a UTI. 
 
