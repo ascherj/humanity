@@ -42,7 +42,7 @@ I cared before but Ed has definitely made me care more. I am so grateful for his
 
 4. [Tabitha Brown:](https://www.youtube.com/c/TabithaBrown/videos?view=0&sort=p&flow=grid)
 
-Tabitha Tabitha oh where do I start. This woman is legit one of my fav human beings. Her energy is just infectious. I can't even begin to describe it, you just need to watch and see for yourself!! She's hilarious, kind, gentle, fun, and inspiring all in one. She's also real. I watch the first two Youtubers listed above, more for their recipes, I watch Tabitha more so for her personality. While she still has great and fun vegan recipes, I watch just to be in a better mode really. You can’t help but smile while you watch Tabitha do her thing. 
+Tabitha Tabitha oh where do I start. This woman is legit one of my fav human beings. Her energy is just infectious. I can't even begin to describe it, you just need to watch and see for yourself!! She's hilarious, kind, gentle, fun, and inspiring all in one. She's also real. I watch the first two Youtubers listed above, more for their recipes, and I watch Tabitha more so for her personality. While she still has great and fun vegan recipes, I watch just to be in a better mode really. You can’t help but smile while you watch Tabitha do her thing. 
 
 5. [Merle O´Neal](https://www.youtube.com/channel/UCle9AaDvd89jq8qWT1QiWkw)
 
