@@ -76,6 +76,8 @@ This is such a great way to also meet new people and experience a new culture! E
 
 I started attending these when my Spanish was VERY basic so do not let your level deter you away from attending. Even just sitting and listening will help tremendously.
 
+![Four Women Chatting While Sitting on Bench](https://images.pexels.com/photos/1267697/pexels-photo-1267697.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
+
 6. Tinder ;)
 
 This one is a good one if you live in a Spanish-speaking country! Going on dates or friend dates is a perfect way to practice your Spanish and immerse yourself in the culture! Even if you are not looking for something romantic, there is a friend setting. Go ahead and push yourself out of your comfort zone..ya never know what might happen!
