@@ -50,11 +50,11 @@ I will warn you, he does talk about spirits, angels, and whatnot….I understand
 
 ![Image result for Becoming Supernatural: How Common People Are Doing the Uncommon by Dr. Joe Dispenza](https://images-na.ssl-images-amazon.com/images/I/A1Z78NY9zmL.jpg)
 
-This is a book that completely changed the way I look at my thoughts. It solidifies just how STRONG the mind-body connection is. I mean I knew it was definitely real but I didn’t know how mind-blowing and powerful it could be. I like this book because it is backed by a ton of science. It is understandable that you are skeptical about topics we don’t necessarily learn about in school and whatnot. If you are more science-driven, this is the book for you!
+This is a book that completely changed the way I look at my thoughts. It solidifies just how STRONG the mind-body connection is. I mean, I knew it was definitely real but I didn’t know how mind-blowing and powerful it could be. I like this book because it is backed by a ton of science. It is understandable if you are skeptical about topics we don’t necessarily learn about in school and whatnot. If you are more science-driven, this is the book for you!
 
-The author is a doctor who was hit by a car and told he may be paralyzed forever if he didn’t go through invasive surgery. Against all the doctors’ best wishes, he chose not to go through with the surgery and instead went home and healed himself with his mind alone in just a few months. He used powerful visualization techniques that lead to his recovery. 
+The author is a doctor who was hit by a car and was told he may be paralyzed forever if he didn’t go through invasive surgery. Against all the doctors’ best wishes, he chose not to go through with the surgery and instead went home and healed himself with his mind alone in just a few months. He used powerful visualization techniques that lead to his recovery. 
 
-This book will tell you exactly how you can tap into your own power that exists in ALL of us. Yes all of us! You don’t need to be a guru or master of any sort to apply his techniques. Its pack full of real-life case studies as well.
+This book will tell you exactly how you can tap into your own power that exists in ALL of us. Yes all of us! You don’t need to be a guru or master of any sort to apply his techniques. It's packed full of real-life case studies as well.
 
 You’ll find different meditations and practices that you can implement. For example, I made a mind movie (something you will learn about in his book) that I now watch first thing in the morning and last thing at night to help me manifest my future! It is basically like a movie version of a vision board that is paired with a song in your life that brings you feelings of joy and gratitude. This has been a really grounding technique that has become apart of my daily gratitude practice. 
 
