@@ -38,7 +38,7 @@ Celery juice contains sodium cluster salts that attach themselves to the strep b
 
 Recap:
 
-* \_\_\_\__ Supplement
+* [U.T. Vibrance, Crisis Intervention Formula Supplement](<[U.T. Vibrance, Crisis Intervention Formula](https://www.amazon.com/Vibrant-Health-Intervention-D-Mannose-Vegetarian/dp/B00SK66UJG/ref=sr_1_3?crid=2PLHDR30P868D&dchild=1&keywords=uti+crisis+intervention&qid=1613911427&sprefix=UTI+crisis+%2Caps%2C410&sr=8-3)>)
 * 16-32 Oz celery juice daily
 
 **Supplements I take for maintenance:**
@@ -54,6 +54,8 @@ Lemon balm:
 Cranberry pill:
 
 If you really need extra support and money is not an issue for you, I would also include these supplements into your regime: oregano oil, cat's claw, and goldenseal.
+
+All these supplements help eradicate strep.
 
 **Foods to avoid:** 
 
