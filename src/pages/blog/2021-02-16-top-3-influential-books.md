@@ -26,15 +26,19 @@ Let’s break it down:
 
 1. Medical Medium by Anthony William
 
-  (Picture)
+![Image result for 1. Medical Medium by Anthony William](https://target.scene7.com/is/image/Target/GUEST_94236a75-79ab-43ad-9960-4e3356a48073?wid=488&hei=488&fmt=pjpeg)
 
-This is the book that I attribute the start of my plant-based diet. This book focuses more on the body but inevitably it shapes and influences the mind as well.
+This is the book that I attribute the start of my plant-based diet. This book focuses more on the body but also on aspects of the mind and spirituality.
 
-Anthony William is a Medium that is able to detect different health problems within people. He started at age three when he diagnosed his Grandma with Lung Cancer. Since then, he has a spirit guide that allows him to know different healing benefits from different foods and such. 
+Anthony William is a Medium that is able to detect different health problems within people. He started at age four when he diagnosed his Grandma with Lung Cancer. Since then, he has a spirit guide that allows him to know different healing benefits from different foods, supplements and such. 
+
+A lot of his information is ahead of the medical times.
 
 He knows a TONNNN about autoimmune diseases, their origins, and certain foods and supplements that are highly beneficial. He has helped millions recover and even doctors call him to consult on patients. 
 
-I have struggled with chronic UTIs, Styes, and Strep Throat. My mom has had colitis for more than half her life. The information in this book has healed us both from our conditions!! My mom was on all sorts of medicine after \_\_\_\_ she is completely off her medication. This book requires having an open mind and a little faith. Since Anthony is a medium and not a certified doctor, some people have a harder time believing and accepting his information. Mediums and spirituality are up my alley so I didn't have a hard time giving in but I can understand why some people do. I just want you to know that I have never felt better in my entire life. I also recently got a blood analysis and all my levels are within a normal healthy range. If you are struggling with a chronic illness, you have nothing to lose and everything to gain from reading this book! Even if you are not struggling with any sort of condition, you will still gain a ton from this book. I have lived near my family my whole life until I decided to move to Spain 1.5 years ago. One of my biggest hesitations before moving was what if I get sick again and I am far from my family?? These shouldn’t have to be the types of thoughts that occupy my brain before an exciting move. The security from the information I learned in this book was priceless and aided in a more peaceful move. I will warn you, he does talk about spirits, angels, and whatnot….I understand this can be uncomfortable for some because it questions our current known reality but all I ask is for you to GIVE IN. Give in, let go and absorb all the benefits :)
+I have struggled with chronic UTIs, Styes, and Strep Throat. My mom has had colitis for more than half her life. The information in this book has healed us both from our conditions!! My mom was on all sorts of medicines but after years and years, she is completely off her medication. 
+
+This book requires having an open mind and a little faith. Since Anthony is a medium and not a certified doctor, some people have a harder time believing and accepting his information. Mediums and spirituality are up my alley so I didn't have a hard time giving in but I can understand why some people do. I just want you to know that I have never felt better in my entire life. I also recently got a blood analysis and all my levels are within a normal healthy range. If you are struggling with a chronic illness, you have nothing to lose and everything to gain from reading this book! Even if you are not struggling with any sort of condition, you will still gain a ton from this book. I have lived near my family my whole life until I decided to move to Spain 1.5 years ago. One of my biggest hesitations before moving was what if I get sick again and I am far from my family?? These shouldn’t have to be the types of thoughts that occupy my brain before an exciting move. The security from the information I learned in this book was priceless and aided in a more peaceful move. I will warn you, he does talk about spirits, angels, and whatnot….I understand this can be uncomfortable for some because it questions our current known reality but all I ask is for you to GIVE IN. Give in, let go and absorb all the benefits :)
 
 2. Becoming Supernatural: How Common People Are Doing the Uncommon by Dr. Joe Dispenza
 
