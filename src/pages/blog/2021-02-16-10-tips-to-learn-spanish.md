@@ -106,8 +106,6 @@ Last but not least, one of my favorite simple tips, change your phone language i
 
 There will be a learning curve but once you get past that, you will notice a difference. I passively learned verbs like send, deliver, erase, unlock, etc. You will be very pleasantly surprised by all the new vocabulary you will learn just by using your apps in Spanish. 
 
-
-
 In conclusion...
 
 There is not a magic program that will help you learn Spanish in X amount of weeks or even months. Read that again. Trust me, I almost fell prey to a few programs that promised fluency in a few months. 
@@ -125,3 +123,5 @@ Some people who are also learning may try to show off, just stay tunnel-visioned
 There WILL be days where you feel like giving up, where you feel like you are making zero progress. That is normal!!!! But you also WILL have moments where it will all just click. Maybe you will understand a conversation you are overhearing, or you start dreaming a little in Spanish. Whatever your light bulb moment is, they will come and there will be more than one of them if you stick with it.
 
 So just talk talk talk in Spanish, breath, smile, talk some more and enjoy because it will be a very rewarding ride :)
+
+[You may also like: How to Teach English in Spain](https://thehumanitybooks.com/blog/2020-12-28-how-to-teach-english-in-spain/)
