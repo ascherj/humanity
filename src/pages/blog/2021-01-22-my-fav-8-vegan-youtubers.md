@@ -48,17 +48,17 @@ Tabitha Tabitha oh where do I start. This woman is legit one of my fav human bei
 
 Merle is a vegan vlogger that I originally found on Buzzfeed’s youtube page. She is their go-to host for vegan videos. Check out [Goodfuls youtube channel](https://www.youtube.com/channel/UCEMArgthHuEtX-04qL_8puQ) (a subset of Buzzfeed) too for more of her awesome videos! 
 
-She recently started her own channel that is more relaxed and open. If you love Merle content from Buzzfeed or Goodful, you’ll love her new channel! On Goodful, her niche was turning common meals vegan by using strange ingredients. For example, vegan fried calamari out of coconut, making vegan chicken tenders out of grapefruit peels, or making vegan taco meat out of edible flowers.
+She recently started her own channel that is more relaxed and open. If you love Merle content from Buzzfeed or Goodful, you’ll love her new channel! On Goodful, her niche is veganizing common meals by using strange ingredients. For example, vegan fried calamari out of coconut, vegan chicken tenders out of grapefruit peels, or making vegan taco meat out of edible flowers.
 
-Her new channel still has recipes and vegan related content, but also other content that I feel like should be talked about and normalized. For example, she shares her experience going to a sex therapist, etc. We love a normalizing star. She's the type of person I feel like I would be friends with in real life. 
+Her new channel still has recipes and vegan-related content, but also other content that I feel like should be talked about and normalized. For example, she shares her experience going to a sex therapist, etc. We love a normalizing star. She's the type of person I feel like I would be friends with in real life. 
 
 6. [Healthy Crazy Cool ](https://www.youtube.com/c/HealthyCrazyCool/featured)
 
-I feel like this channel is my guilty pleasure in a way. Miles is raw and gets to the point. The majority of his videos are vegan meals he eats in a day but he will go on rants about anything and everything. He is not afraid to state his unpopular opinion on things and drop a few curse words here and there. I like him because he is related...he eats massive portions and I feel like he cooks like a regular person instead of some classically trained chefs that I also watch. 
+I feel like this channel is my guilty pleasure in a way. Miles is raw and gets to the point. The majority of his videos are vegan meals he eats in a day but he will go on rants about anything and everything. He is not afraid to state his unpopular opinion on things and drop a few curse words here and there. I like him because he is real...he eats massive portions and I feel like he cooks like a regular person instead of some classically trained chefs that I also watch. 
 
 He has a cute vegan nephew that also joins in some of his videos if you are interested in ideas for vegan kids.
 
-He advocates for lots of fats and oils which aren’t really my style but hey to each their own. I don't know why but I weirdly can't stop watching when I click on one of his videos. 
+He advocates for lots of fats and oils which isn’t really my style but hey, to each their own. I don't know why but I weirdly can't stop watching when I click on one of his videos. 
 
 7. [Nayna Florence](https://www.youtube.com/channel/UClH3eUwzfDTXxUjM8WIJuOg)
 
