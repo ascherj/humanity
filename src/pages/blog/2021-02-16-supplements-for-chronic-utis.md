@@ -32,7 +32,7 @@ Of course if you have a serious UTI...see a doctor!! Sometimes antibiotics are n
 
 **What I do when I have a mild UTI:**
 
-This regime works WONDERS for me. As soon As I feel a UTI coming on, I will take this religiously until I finish the recommended portions. This, plus 16-32 ounces of straight celery juice in the morning on an empty stomach does the trick perfectly for me!
+This regime works WONDERS for me. As soon As I feel a UTI coming on, I will take this supplement: [U.T. Vibrance, Crisis Intervention Formula](https://www.amazon.com/Vibrant-Health-Intervention-D-Mannose-Vegetarian/dp/B00SK66UJG/ref=sr_1_3?crid=2PLHDR30P868D&dchild=1&keywords=uti+crisis+intervention&qid=1613911427&sprefix=UTI+crisis+%2Caps%2C410&sr=8-3), religiously until I finish the recommended portions. This, plus 16-32 ounces of straight celery juice in the morning on an empty stomach does the trick perfectly for me!
 
 Celery juice contains sodium cluster salts that attach themselves to the strep bacteria and eliminate them through the urine. It is important that you do not mix the celery juice with anything for optimum results. It is also best not to eat or drink anything for 20 minutes before or after. 
 
@@ -41,7 +41,7 @@ Recap:
 * \_\_\_\__ Supplement
 * 16-32 Oz celery juice daily
 
-Supplements I take for maintenance:
+**Supplements I take for maintenance:**
 
 Vitamin c:
 
@@ -55,7 +55,7 @@ Cranberry pill:
 
 If you really need extra support and money is not an issue for you, I would also include these supplements into your regime: oregano oil, cat's claw, and goldenseal.
 
-Foods to avoid: 
+**Foods to avoid:** 
 
 When you have a UTI you should avoid eggs first and foremost. They use eggs in Petri dishes in labs to feed and experiment with bacteria. The second is to avoid dairy products and if you are really committed and want to go all out, avoid corn, gluten, and canola oil. All these foods ultimately feed strep.
 
@@ -69,7 +69,7 @@ Avoid…
 * Gluten
 * Canola oil
 
-Foods to eat:
+**Foods to eat:**
 
 In general, you should be eating as many fruits and vegetables as humanly possible but ESPECIALLY when you are battling a UTI. Incorporate as many of these foods into your diet as you can:
 
