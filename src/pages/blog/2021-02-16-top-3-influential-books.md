@@ -5,6 +5,21 @@ date: 2021-02-16T17:13:51.069Z
 description: " "
 featuredpost: false
 featuredimage: /img/pexels-samson-katt-5256144.jpg
+tags:
+  - Books
+  - Health
+  - Wellness
+  - Wim
+  - WimHof
+  - Medicalmedium
+  - JoeDispenza
+  - Resources
+  - Mind
+  - Body
+  - Mindbodyconnection
+  - Breath
+  - Breathwork
+  - Breathing
 ---
 Looking for a life-changing book? I have been there plentyyyyy o times let me tell you. I have gone through shelves of self-help books that I end up forgetting just months later. 
 
@@ -88,8 +103,12 @@ I would start to dread turning my shower to cold but now that I know the science
 
 He even claims that implementing just a little bit of his method is enough to start changing your body chemistry. So this means, there is a little bit for everyone inside. 
 
+In conclusion...
+
 I truly believe from the bottom of my heart that these three books are life-changing or at least changed my life. It is usually very hard for me to say that after reading books. Even if you just start with one, I feel like that's enough to spark new thoughts, ideas, and questions within yourself.
 
-These books not only help mental health but also your physical body...and after all we know that everything is connected, don’t we. 
+These books not only help mental health but also your physical body...and after all, we know that everything is connected, don’t we. 
 
 As always, keep an open mind and think beyond your current reality. The results can be life-changing :)
+
+[You may also like: My fav 8 Vegan Youtubers](https://thehumanitybooks.com/blog/2021-01-22-my-fav-8-vegan-youtubers/)
