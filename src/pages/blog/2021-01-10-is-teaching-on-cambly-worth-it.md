@@ -43,9 +43,9 @@ Pros:
 
 * You do not have to prepare anything. Now, this can be a good or bad thing depending on the type of person you are. I usually just have conversation-based classes. This means that I just chat with people about anything and everything. 
 
-For some people that can be their worse nightmare. I enjoy it because I do not have to plan or prepare beforehand. I can simply wake up 5 minutes before a class if I really wanted to and just see where the conversation takes us! 
-
-The platform is super informal which I really like. There are lesson plans/games available for you if you need them but I would say 90% of my lessons do not request a lesson plan, they just want to practice their conversation skills.
+> For some people that can be their worse nightmare. I enjoy it because I do not have to plan or prepare beforehand. I can simply wake up 5 minutes before a class if I really wanted to and just see where the conversation takes us! 
+>
+> The platform is super informal which I really like. There are lesson plans/games available for you if you need them but I would say 90% of my lessons do not request a lesson plan, they just want to practice their conversation skills.
 
 * You get to meet people from all over the world! This past year, the top three countries my students were from were: Japan, Saudi Arabia, and Brazil. How cool! This is just 3 of many and since I spend the majority of the time just chit-chatting with them, you really get to learn new things about their culture.
 
@@ -58,16 +58,16 @@ Cons:
 
 * No structure. There’s no real structure or guidelines. I kind of remember feeling like I was thrown to the wolves my first lesson. It is a learn-as-you-go process. There is a guide you can refer to but it is more of a learn on the job thing.
 
-I now love the no structure aspect of this platform because it’s very relaxed and almost anything goes. I like this because it is a side gig for me...I feel like if I wanted to teach English full time, this may not be the best or most legit platform. I’m sure some people still do it though!
+> I now love the no structure aspect of this platform because it’s very relaxed and almost anything goes. I like this because it is a side gig for me...I feel like if I wanted to teach English full time, this may not be the best or most legit platform. I’m sure some people still do it though!
 
 * No curriculum. Again, this is a pro for me but I do know that some people would definitely prefer more guidance. If you are looking for a set PowerPoint or lesson plan for each student this is not the platform! They do have material that your student can request to work on but this doesn’t happen to me quite often.
 * Sometimes there are free accounts that troll you. Anyone is able to send you a message. Sometimes you will get free accounts wanting to have a conversation or sometimes they will send inappropriate messages, unfortunately. 
 
-If this happens, I report them and their account gets taken down. You are also able to tell who has a free account v. a paid account. If someone wants to have a pointless conversation with a free account I do not answer them, or I just send them my calendar link without engaging. 
+> If this happens, I report them and their account gets taken down. You are also able to tell who has a free account v. a paid account. If someone wants to have a pointless conversation with a free account I do not answer them, or I just send them my calendar link without engaging. 
 
 * Feedback system. You’re only able to see your rating out of 5 stars. You cannot tell what student leaves which rating and you cannot see any actual feedback information. This means that we teachers cannot see what the students like or what we should improve on. 
 
-Cambly did send out an email saying that they are changing this is the new year so maybe by the time you are reading this, it will be different!
+> Cambly did send out an email saying that they are changing this is the new year so maybe by the time you are reading this, it will be different!
 
 * You get a lot of trial students in the beginning. When I was first starting out, whenever I did priority hours, I felt like I was getting sent a lot of 5-minute trial accounts. A lot of these accounts are unqualified so it can be a frustrating beginning. 
 
