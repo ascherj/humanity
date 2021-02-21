@@ -39,11 +39,11 @@ It’s free and all the episodes are digestible “coffee break” length. 
 
 This is the other one of my top two favorite ways to learn. THIS ONE GOT ME THROUGH QUARANTINE. I am not lying. This is an online platform where you can take virtual Spanish lessons via zoom with their teachers. They have a ton of teachers to choose from. The lessons are 30 minutes long and you can schedule a lesson 1 minute before that time slot if you really wanted to. On the contrary, you can schedule them one week in advance as well. I had their unlimited plan during quarantine which is $149 a month for an unlimited amount of lessons. I took 3 lessons every day. That’s 21 lessons a week or 84 lessons a month! What a deal.
 
+You get a $1 trial week if you want to give it a whirl! There is also a different payment plan if you want to start with something lower commitment. The hourly plan is $9 a month and that comes with 1 hour of class included. After that, each lesson is $4.50. 
+
 Once you are on the platform for some time, you find your favorite teachers that match your learning style that you build rapport with. Finding that handful of teachers is super important to your growth. You may click with one immediately or you may test out a few. It may be a process. The good news is, any exposure to a native Spanish speaker is good exposure. It can never hurt! 
 
 I live in Spain where I am used to hearing Spanish every day. Baselang was able to bring that back into my life while being stuck in my apartment during this pandemic.
-
-You get a $1 trial week if you want to give it a whirl! There is also a different payment plan if you want to start with something lower commitment. The hourly plan is $9 a month and that comes with 1 hour of class included. After that, each lesson is $4.50. 
 
 This is also a great way to incorporate Spanish into your everyday life if you do not have the privilege of living in a Spanish-speaking country. 
 
