@@ -14,7 +14,7 @@ I can’t exactly tell you what I was searching for but I can tell you that noth
 
 This list below has LITERALLY CHANGED MY LIFE. All caps are necessary because I need you to know how serious I am.
 
-I AM BEING SO SERIOUS. Please read these 3 books. This is my unbiased genuine opinion.
+I AM BEING SO SERIOUS. Please read these 3 books. These are my unbiased genuine opinion.
 
 All of them have to do with the body, the mind or the mind-body connection:
 
