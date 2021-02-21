@@ -72,6 +72,10 @@ This channel is definitely less cooking/meal-based so skip over it if that is yo
 
 8. [Edgy Veg](https://www.youtube.com/user/stillcurrentstudios)
 
-Edgy veg!!!! She’s always rockin cool hair colors and outfits as well. The reason I love watching her videos is because she tries a lot of other YouTubers’ recipes. She’ll have a video theme, for example, lasagna, and then test out three well-known vegan YouTubers. I like this for three reasons. One, if you are trying to find the perfect recipe, you don’t have to waste time or resources because Candace (edgy veg), has already done it for you! Two, you get exposed to other vegan YouTubers you might not have known existed. And three, it makes me feel warm inside for some reason to see all the YouTubers intermingle. It’s like one little vegan family. On the internet. Who may have never met before. Okay maybe that’s just me?? Anywhooooo, check her out if you like watching other people try new exciting vegan food!
+Edgy veg!!!! She’s always rockin cool hair colors and outfits as well. The reason I love watching her videos is because she tries a lot of other vegan YouTubers’ recipes. She’ll have a video theme, for example, lasagna, and then test out three well-known vegan YouTubers. I like this for three reasons. One, if you are trying to find the perfect recipe, you don’t have to waste time or resources because Candace (edgy veg), has already done it for you! Two, you get exposed to other vegan YouTubers you might not have known existed. And three, it makes me feel warm inside for some reason to see all the YouTubers intermingle. It’s like one little vegan family. On the internet. Who may have never met before. Okay maybe that’s just me?? Anywhooooo, check her out if you like watching other people try new exciting vegan food!
 
 Enjoy!!! Hopefully you will find some vegan motivation during this slow quarantine :)
+
+
+
+[You may also like: Top 3 Influential Books](https://thehumanitybooks.com/blog/2021-02-16-top-3-influential-books/)
