@@ -28,7 +28,9 @@ I have found that my body is so connected that once I have a UTI, sometimes the 
 
 I will break this article up into 4 sections: what I do when I have a mild UTI, what supplements I take for maintenance, what foods I avoid when I have a UTI, and what foods I eat extra of when I have a UTI. 
 
-What I do when I have a mild UTI:
+Of course if you have a serious UTI...see a doctor!! Sometimes antibiotics are necessary depending on the severity of your UTI. If it goes untreated long enough it can spread to your kidneys. 
+
+**What I do when I have a mild UTI:**
 
 This regime works WONDERS for me. As soon As I feel a UTI coming on, I will take this religiously until I finish the recommended portions. This, plus 16-32 ounces of straight celery juice in the morning on an empty stomach does the trick perfectly for me!
 
