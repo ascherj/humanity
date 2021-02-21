@@ -14,6 +14,8 @@ tags:
 ---
 Bienvenidos!! So you’re doing research on how to learn Spanish? Maybe this is this first article you landed on in your quest or if you are like me, the 854th article. Regardless, I am happy you are here!
 
+![](/img/pexels-photo-5409047.jpg)
+
 I have been living in Spain for the past 1.5 years and I started learning Spanish from scratch when I moved out here. Disclaimer: I am still learning and have a TON more to learn. No doubt. But, I am now conversational in Spanish and consider my level intermediate.
 
 I want to share the tips I have cultivated on this long, tumultuous but satisfying journey. 
