@@ -6,9 +6,10 @@ description: " "
 featuredpost: false
 featuredimage: /img/pexels-samson-katt-5256144.jpg
 tags:
-  - teaching
-  - english
-  - online
+  - Teaching
+  - English
+  - Online
+  - Travel
 ---
 Is [Cambly](https://www.cambly.com/en/tutors?referralCode=shayna65) worth it? In short, my answer is yes. But keep reading because I am going to break down the pros and cons so you can decide if it’s the right platform for you as well!
 
