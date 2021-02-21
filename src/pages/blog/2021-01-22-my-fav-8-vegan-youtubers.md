@@ -68,7 +68,7 @@ She's a college student that vlogs about sustainable living, vegan food, and jus
 
 I like to get inspired by her thrifting ideas, gift ideas, morning routines, or simple vegan meals.
 
-This channel is definitely less cooking/meal based so skip over it if that is your main focus. I would suggest this more for younger, college-aged vegans. I know a lot of people around that age may not understand why you are on a vegan journey so it is nice to be able to relate and see there are lots of people your age like you! Plus she just seems like such a genuine person!
+This channel is definitely less cooking/meal-based so skip over it if that is your main focus. I would suggest this more for younger, college-aged vegans. I know a lot of people around that age may not understand why you are on a vegan journey so it is nice to be able to relate and see there are lots of people your age like you! Plus she just seems like such a genuine person!
 
 8. [Edgy Veg](https://www.youtube.com/user/stillcurrentstudios)
 
