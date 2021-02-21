@@ -6,9 +6,13 @@ description: " "
 featuredpost: false
 featuredimage: /img/home-jumbotron.jpg
 tags:
-  - food
-  - supplements
+  - Food
+  - Supplements
   - UTI
+  - Health
+  - Wellness
+  - Medicalmedium
+  - Natural
 ---
 Hey there folks! If you clicked on this article...I understand and I feel you. I was born with a Urinary Tract Infection or UTI and had a 103-degree fever as a newborn baby because of it. 
 
@@ -131,4 +135,4 @@ This next tip is a personal preference, but to me, visualization is key! Every t
 
 Mindful eating is not easy but I urge you to try it & let me know what you think :)
 
-Getting out of the “I am prone to UTIs” mindset is crucial. Instead of just waiting for another one to appear like a ticking time bomb, instead, know that you have options and you are ready to tackle whatever comes your way! Wherever your thoughts go, energy flows...hope this helps!
+Getting out of the “I am prone to UTIs” mindset is crucial. Instead of just waiting for another one to appear like a ticking time bomb, instead, know that you now have options and you are ready to tackle whatever comes your way! Wherever your thoughts go, energy flows...hope this helps!
