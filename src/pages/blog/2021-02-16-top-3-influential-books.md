@@ -76,9 +76,11 @@ I highly recommend doing a quick search on Youtube so you can see what he is all
 
 He preaches that everything we ever need in life is within us. This book just further strengthens the relationship between mind and body. 
 
-I actually started doing his breathing technique and cold exposure every day for a month and a half before I read his book. Here is my experience doing his breathing everyday.
+I actually started doing his breathing technique and cold exposure every day for a month and a half before I read his book. 
 
 His breathing technique truly changed me by creating discipline and showing me how much more capable I am than I originally thought. I surprised myself in how long I could hold my breath and I have even worked up to 2-minute ice baths. 
+
+![ice bath](/img/0.jpg "ice bath")
 
 Don't worry, there is also a lot of science in the book to back him up. I liked doing his exercises before reading the book but not after I have a powerful and intentional  ‘why’ behind my actions. Reading the science behind it allowed me to fully give in and visualize my changing body with each breath. 
 
