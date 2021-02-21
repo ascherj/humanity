@@ -75,7 +75,7 @@ Avoid…
 
 In general, you should be eating as many fruits and vegetables as humanly possible but ESPECIALLY when you are battling a UTI. Incorporate as many of these foods into your diet as you can:
 
-**Fruit:**
+**Fruits:**
 
 Bananas
 
@@ -113,7 +113,7 @@ Cayenne pepper
 
 Celery juice
 
-Turmeric with cucumber juice
+Cucumber juice with Tumeric
 
 Smoothie with wild blueberries, spirulina and barley grass juice powder
 
@@ -127,7 +127,7 @@ Ginger
 
 All these foods listed above help pull strep out of the body with their antibacterial properties. 
 
-This is a personal preference but to me, visualization is key! Every time I eat a healing food listed above or take a supplement, I close my eyes (if I am eating alone or at home haha) and physically envision the food fighting and kicking the strep out of my system. I elevate my emotions to gratitude for being fortunate enough to have access to these foods that are nourishing my body. I say thank you as if I'm already healed and then go on about my day.
+This next tip is a personal preference, but to me, visualization is key! Every time I eat a healing food listed above or take a supplement, I close my eyes (if I am eating alone or at home haha) and physically envision the food fighting and kicking the strep out of my system. I elevate my emotions to gratitude for being fortunate enough to have access to these foods that are nourishing my body. I say thank you as if I'm already healed and then go on about my day.
 
 Mindful eating is not easy but I urge you to try it & let me know what you think :)
 
