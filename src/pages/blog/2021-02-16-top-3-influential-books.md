@@ -48,6 +48,8 @@ I will warn you, he does talk about spirits, angels, and whatnot….I understand
 
 2. Becoming Supernatural: How Common People Are Doing the Uncommon by Dr. Joe Dispenza
 
+![Image result for Becoming Supernatural: How Common People Are Doing the Uncommon by Dr. Joe Dispenza](https://images-na.ssl-images-amazon.com/images/I/A1Z78NY9zmL.jpg)
+
 This is a book that completely changed the way I look at my thoughts. It solidifies just how STRONG the mind-body connection is. I mean I knew it was definitely real but I didn’t know how mind-blowing and powerful it could be. I like this book because it is backed by a ton of science. It is understandable that you are skeptical about topics we don’t necessarily learn about in school and whatnot. If you are more science-driven, this is the book for you!
 
 The author is a doctor who was hit by a car and told he may be paralyzed forever if he didn’t go through invasive surgery. Against all the doctors’ best wishes, he chose not to go through with the surgery and instead went home and healed himself with his mind alone in just a few months. He used powerful visualization techniques that lead to his recovery. 
