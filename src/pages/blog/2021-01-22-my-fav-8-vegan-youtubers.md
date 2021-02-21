@@ -5,6 +5,11 @@ date: 2021-01-11T17:57:19.359Z
 description: "  "
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
+tags:
+  - vegan
+  - veganfood
+  - youtube
+  - resources
 ---
 Newly embarking on a vegan plant-based diet?? Or have you been around the block but are semi-obsessed with watching vegan content on Youtube like I am? 
 
