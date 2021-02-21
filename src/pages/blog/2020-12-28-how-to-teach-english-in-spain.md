@@ -6,9 +6,10 @@ description: " 10 steps to teach English in Spain!"
 featuredpost: false
 featuredimage: /img/shayna-ascher-6.jpg
 tags:
-  - spain
-  - teach
-  - abroad
+  - Spain
+  - Teach
+  - Abroad
+  - Travel
 ---
 ![Spanish streets](/img/shayna-ascher-6-copy.jpg "Spanish streets")
 
