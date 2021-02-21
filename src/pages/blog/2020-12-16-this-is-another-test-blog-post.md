@@ -8,10 +8,10 @@ description: Hi guys! Let's jump right into today’s topic of indie/alternative
 featuredpost: false
 featuredimage: /img/pexels-snapwire-6966.jpg
 tags:
-  - music
-  - indie
-  - alternative
-  - blackartists
+  - Music
+  - Indie
+  - Alternative
+  - Blackartists
 ---
 After scrolling through my Spotify library, I realized that way too many of my songs were from white men. Black artists need to work that much harder in this industry just based on their skin color.
 
