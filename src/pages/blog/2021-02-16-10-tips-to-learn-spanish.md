@@ -93,11 +93,11 @@ After listening to the song on repeat, I was able to start singing along which f
 
 I know this one seems basic and obvious but no joke it is so important!!!!! When you are learning any language, especially if you do not live in a country where they speak your target language, you must try and turn your whole world into that language. 
 
-Listen to Spanish music, turn this free Spanish radio on while you are getting ready in the morning, start watching videos on youtube in Spanish! Search for your favorite subject and add the word ‘Spanish’ at the end and you will have ample content at your disposal. I spent a lot of my quarantine watching vegan cooking videos in Spanish.
+[Listen to Spanish music](https://open.spotify.com/playlist/00RCQf4S1An3j7Voarscec?si=fphsyd2LTvWGokTxjcTaxw), [turn this free Spanish radio on while you are getting ready in the morning](http://radio.garden/), start watching videos on youtube in Spanish! Search for your favorite subject and add the word ‘Spanish’ at the end and you will have ample content at your disposal. I spent a lot of my quarantine watching vegan cooking videos in Spanish.
 
 Even if you are not actively listening to every word, any exposure helps!!!!!
 
-10. Change your phone
+10. Change your phone language
 
 Last but not least, one of my favorite simple tips, change your phone language into Spanish! The most important part is commitment. Heads up, it WILL get super frustrating at points, especially when you want a quick google answer but I promise you it is worth it.
 
