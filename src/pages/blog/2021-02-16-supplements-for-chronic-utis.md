@@ -136,3 +136,5 @@ This next tip is a personal preference, but to me, visualization is key! Every t
 Mindful eating is not easy but I urge you to try it & let me know what you think :)
 
 Getting out of the “I am prone to UTIs” mindset is crucial. Instead of just waiting for another one to appear like a ticking time bomb, instead, know that you now have options and you are ready to tackle whatever comes your way! Wherever your thoughts go, energy flows...hope this helps!
+
+[You may also like: Top 3 Influential Books](https://thehumanitybooks.com/blog/2021-02-16-top-3-influential-books/)
