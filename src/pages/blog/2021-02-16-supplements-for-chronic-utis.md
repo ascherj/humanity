@@ -43,15 +43,15 @@ Recap:
 
 **Supplements I take for maintenance:**
 
-Vitamin c:
+Vitamin c
 
-Zinc Sulfate:
+Zinc Sulfate
 
-Monolaurin:
+Monolaurin
 
-Lemon balm:
+Lemon balm
 
-Cranberry pill:
+Cranberry pill
 
 If you really need extra support and money is not an issue for you, I would also include these supplements into your regime: oregano oil, cat's claw, and goldenseal.
 
@@ -59,7 +59,7 @@ All these supplements help eradicate strep.
 
 **Foods to avoid:** 
 
-When you have a UTI you should avoid eggs first and foremost. They use eggs in Petri dishes in labs to feed and experiment with bacteria. The second is to avoid dairy products and if you are really committed and want to go all out, avoid corn, gluten, and canola oil. All these foods ultimately feed strep.
+When you have a UTI you should avoid eggs first and foremost. They use eggs in Petri dishes in labs to feed, grow and experiment with bacteria. The second is to avoid dairy products and if you are really committed and want to go all out, avoid corn, gluten, and canola oil. All these foods ultimately feed strep.
 
 Recap:
 
