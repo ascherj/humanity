@@ -4,7 +4,7 @@ title: Supplements for chronic UTIs
 date: 2021-02-16T17:10:12.050Z
 description: " "
 featuredpost: false
-featuredimage: /img/home-jumbotron.jpg
+featuredimage: /img/pexels-irita-antonevica-306800.jpg
 tags:
   - Food
   - Supplements
