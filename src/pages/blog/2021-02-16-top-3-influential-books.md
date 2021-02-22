@@ -4,7 +4,7 @@ title: "Top 3 Influential Books "
 date: 2021-02-16T17:13:51.069Z
 description: " "
 featuredpost: false
-featuredimage: /img/pexels-samson-katt-5256144.jpg
+featuredimage: /img/erik-mclean-cyqtw1htpbg-unsplash.jpg
 tags:
   - Books
   - Health
