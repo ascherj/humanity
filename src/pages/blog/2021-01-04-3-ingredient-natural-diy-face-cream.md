@@ -41,6 +41,6 @@ This recipe is only 3 ingredients! Here’s why I love it:
 
 So go ahead and give it a whirl! Your body will thank you :)
 
-![Recipe](/img/screen-shot-2021-01-03-at-10.09.19-pm.png "Recipe")
+![Recipe](/img/screen-shot-2021-02-22-at-2.53.05-pm.png "Recipe")
 
 [You may also like: Quick & Easy Homemade Natural Lip Balm](https://thehumanitybooks.com/blog/2021-01-03-test/)
