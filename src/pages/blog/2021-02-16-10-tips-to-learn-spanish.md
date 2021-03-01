@@ -40,7 +40,7 @@ It seemed like my level of Spanish progressed perfectly with the podcast and the
 
 It’s free and all the episodes are digestible “coffee break” length. 
 
-2. Baselang
+2. [Baselang](https://baselang.com/signup/?referral=shaynaascher%40gmail.com)
 
 This is the other one of my top two favorite ways to learn. THIS ONE GOT ME THROUGH QUARANTINE. I am not lying. This is an online platform where you can take virtual Spanish lessons via zoom with their teachers. They have a ton of teachers to choose from. The lessons are 30 minutes long and you can schedule a lesson 1 minute before that time slot if you really wanted to. On the contrary, you can schedule them one week in advance as well. I had their unlimited plan during quarantine which is $149 a month for an unlimited amount of lessons. I took 3 lessons every day. That’s 21 lessons a week or 84 lessons a month! What a deal.
 
