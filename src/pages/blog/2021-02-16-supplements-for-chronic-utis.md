@@ -51,7 +51,9 @@ Recap:
 
 Vitamin C:
 
-Zinc Sulfate:
+[Zinc Sulfate:](https://amzn.to/3kKMHTj)
+
+<a href="https://www.amazon.com/Vimergy-USDA-Organic-Zinc/dp/B07K81NS56?dchild=1&keywords=vimergy+zinc&qid=1614605031&s=hpc&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzOUtKOUg1SkVTQlBSJmVuY3J5cHRlZElkPUEwODY2NDEzM1Q1UktXQjUzWkw3SSZlbmNyeXB0ZWRBZElkPUEwODgzMzE0UkxSUDRDRVVDVVU0JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D&linkCode=li2&tag=thehumanitybo-20&linkId=e84e149118e0cc5f4946864e00d9900c&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07K81NS56&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li2&o=1&a=B07K81NS56" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Monolaurin:
 
