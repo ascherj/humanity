@@ -36,16 +36,19 @@ Of course if you have a serious UTI...see a doctor!! Sometimes antibiotics are n
 
 **What I do when I have a mild UTI:**
 
-This regime works WONDERS for me. As soon As I feel a UTI coming on, I will take this supplement: [U.T. Vibrance, Crisis Intervention Formula](https://www.amazon.com/Vibrant-Health-Intervention-D-Mannose-Vegetarian/dp/B00SK66UJG/ref=sr_1_3?crid=2PLHDR30P868D&dchild=1&keywords=uti+crisis+intervention&qid=1613911427&sprefix=UTI+crisis+%2Caps%2C410&sr=8-3), religiously until I finish the recommended portions. This, plus 16-32 ounces of straight celery juice in the morning on an empty stomach does the trick perfectly for me!
+This regime works WONDERS for me. As soon As I feel a UTI coming on, I will take this supplement:[ U.T. Vibrance, Crisis Intervention Formula](https://amzn.to/300r5Zp), religiously until I finish the recommended portions. This, plus 16-32 ounces of straight celery juice in the morning on an empty stomach does the trick perfectly for me!
 
 Celery juice contains sodium cluster salts that attach themselves to the strep bacteria and eliminate them through the urine. It is important that you do not mix the celery juice with anything for optimum results. It is also best not to eat or drink anything for 20 minutes before or after. 
 
 Recap:
 
-* [U.T. Vibrance, Crisis Intervention Formula Supplement](https://amzn.to/3uI9mnB):
+* [U.T. Vibrance, Crisis Intervention Formula Supplement](https://amzn.to/300r5Zp):
 
-  <a href="https://www.amazon.com/Vibrant-Health-Intervention-D-Mannose-Vegetarian/dp/B00014I6YC?dchild=1&keywords=*+%5BU.T.+Vibrance%2C+Crisis+Intervention+Formula+Supplement%5D%28%3C%5BU.T.+Vibrance%2C+Crisis+Intervention+Formula%5D%28https%3A%2F%2Fwww.amazon.com%2FVibrant-Health-Intervention-D-Mannose-Vegetarian%2Fdp%2FB00SK66UJG%2Fref%3Dsr_1_3%3Fcrid%3D2PLHDR30P868D%26dchild%3D1%26keywords%3Duti%2Bcrisis%2Bintervention%26qid%3D1613911427%26sprefix%3DUTI%2Bcrisis%2B%252Caps%252C410%26sr%3D8-3%29%3E%29&qid=1614604965&s=hpc&sr=1-1-fkmr0&linkCode=li2&tag=thehumanitybo-20&linkId=7775048255f6f46884638054c5882396&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00014I6YC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li2&o=1&a=B00014I6YC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-* [](https://amzn.to/3uI9mnB)16-32 Oz celery juice daily
+  (This is pill form but if you prefer powder form [click here](https://amzn.to/302vcUU))
+
+  <a href="https://www.amazon.com/Vibrant-Health-Intervention-D-Mannose-Vegetarian/dp/B00SK66UJG?crid=31XG4V09IW74B&dchild=1&keywords=ut+vibrance&qid=1614605249&s=hpc&sprefix=ut+vi%2Chpc%2C261&sr=1-2&linkCode=li2&tag=thehumanitybo-20&linkId=26fab49bbb5718671e91d2eb4d56f755&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SK66UJG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li2&o=1&a=B00SK66UJG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+  [](https://amzn.to/3uI9mnB)16-32 Oz celery juice daily
 
 **Supplements I take for maintenance:**
 
