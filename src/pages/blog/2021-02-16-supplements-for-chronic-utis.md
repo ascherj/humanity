@@ -134,7 +134,7 @@ Celery juice
 
 Cucumber juice with Tumeric
 
-Smoothie with wild blueberries, spirulina and barley grass juice powder
+Smoothie with [wild blueberries](https://amzn.to/2Ob8hnw), [spirulina](https://amzn.to/3q5ppIG) and [barley grass juice powder](https://amzn.to/37VBQAo)
 
 **Extras:**
 
