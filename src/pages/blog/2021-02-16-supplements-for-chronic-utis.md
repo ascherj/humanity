@@ -46,9 +46,8 @@ Recap:
 
   (This is pill form but if you prefer powder form [click here](https://amzn.to/302vcUU))
 
-  <a href="https://www.amazon.com/Vibrant-Health-Intervention-D-Mannose-Vegetarian/dp/B00SK66UJG?crid=31XG4V09IW74B&dchild=1&keywords=ut+vibrance&qid=1614605249&s=hpc&sprefix=ut+vi%2Chpc%2C261&sr=1-2&linkCode=li2&tag=thehumanitybo-20&linkId=26fab49bbb5718671e91d2eb4d56f755&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SK66UJG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li2&o=1&a=B00SK66UJG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-  [](https://amzn.to/3uI9mnB)16-32 Oz celery juice daily
+  <a href="https://www.amazon.com/Vibrant-Health-Intervention-D-Mannose-Vegetarian/dp/B00SK66UJG?crid=31XG4V09IW74B&dchild=1&keywords=ut+vibrance&qid=1614605249&s=hpc&sprefix=ut+vi%2Chpc%2C261&sr=1-2&linkCode=li2&tag=thehumanitybo-20&linkId=9482e870b12ace3ad3e013542a084f1f&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SK66UJG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li2&o=1&a=B00SK66UJG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* 16-32 Oz celery juice daily
 
 **Supplements I take for maintenance:**
 
