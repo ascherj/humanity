@@ -39,9 +39,9 @@ All of them have to do with the body, the mind or the mind-body connection:
 
 Let’s break it down:
 
-1. Medical Medium by Anthony William
+1. [Medical Medium by Anthony William](https://amzn.to/3bRFexl)
 
-![Image result for 1. Medical Medium by Anthony William](https://target.scene7.com/is/image/Target/GUEST_94236a75-79ab-43ad-9960-4e3356a48073?wid=488&hei=488&fmt=pjpeg)
+<a href="https://www.amazon.com/Medical-Medium-Secrets-Chronic-Mystery/dp/1401948294?crid=MPH8EYSN7ZRJ&dchild=1&keywords=medical+medium&qid=1614606189&sprefix=med%2Caps%2C253&sr=8-4&linkCode=li3&tag=thehumanitybo-20&linkId=c247dd1cb5da11dba2bed0a807fb29f5&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1401948294&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li3&o=1&a=1401948294" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 This is the book that I attribute the start of my plant-based diet. This book focuses more on the body but also on aspects of the mind and spirituality.
 
@@ -61,9 +61,9 @@ I have lived near my family my whole life until I decided to move to Spain 1.5 y
 
 I will warn you, he does talk about spirits, angels, and whatnot….I understand this can be uncomfortable for some because it questions our current known reality but all I ask is for you to GIVE IN. Give in, let go and absorb all the benefits :)
 
-2. Becoming Supernatural: How Common People Are Doing the Uncommon by Dr. Joe Dispenza
+2. [Becoming Supernatural: How Common People Are Doing the Uncommon by Dr. Joe Dispenza](https://amzn.to/30eDdpX)
 
-![Image result for Becoming Supernatural: How Common People Are Doing the Uncommon by Dr. Joe Dispenza](https://images-na.ssl-images-amazon.com/images/I/A1Z78NY9zmL.jpg)
+<a href="https://www.amazon.com/Becoming-Supernatural-Common-People-Uncommon/dp/1401953115?crid=1MO1T7J4BZ5DB&dchild=1&keywords=becoming+supernatural&qid=1614606276&sprefix=bec%2Caps%2C251&sr=8-1&linkCode=li3&tag=thehumanitybo-20&linkId=d300e1db459d6add7bf9e3c8d13343af&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1401953115&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li3&o=1&a=1401953115" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 This is a book that completely changed the way I look at my thoughts. It solidifies just how STRONG the mind-body connection is. I mean, I knew it was definitely real but I didn’t know how mind-blowing and powerful it could be. I like this book because it is backed by a ton of science. It is understandable if you are skeptical about topics we don’t necessarily learn about in school and whatnot. If you are more science-driven, this is the book for you!
 
@@ -79,9 +79,11 @@ I no longer mindlessly walk through life and allow just any old thought to float
 
 This will bring your mindfulness and consciousness to a whole other level that I can’t begin to do justice with my words...so you should read his!
 
-3. The Wim Hof Method by Wim Hof 
+3. [The Wim Hof Method by Wim Hof ](https://amzn.to/3ky3Qzj)
 
-![Image result for The Wim Hof Method by Wim Hof](https://images-na.ssl-images-amazon.com/images/I/81zPAiGdOFL.jpg)If you've never heard of Wim Hof aka The Iceman, allow me to introduce you to him. He is known for his high tolerance to extreme temperatures. He holds world records for swimming under ice and long contact exposure to ice. He walks barefoot in the snow and climbs mountains in nothing but shorts.
+<a href="https://www.amazon.com/Wim-Hof-Method-Activate-Potential/dp/1683644093?dchild=1&keywords=wim+hof&qid=1614606381&sr=8-2&linkCode=li3&tag=thehumanitybo-20&linkId=7d7e2e897727e5bc79faedac84c16a96&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1683644093&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li3&o=1&a=1683644093" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+If you've never heard of Wim Hof aka The Iceman, allow me to introduce you to him. He is known for his high tolerance to extreme temperatures. He holds world records for swimming under ice and long contact exposure to ice. He walks barefoot in the snow and climbs mountains in nothing but shorts.
 
 His success is attributed to the method that he has developed throughout the years. There are three pillars: [his breathing technique](https://www.youtube.com/watch?v=tybOi4hjZFQ), cold showers/cold exposure, and commitment/mindset. 
 
