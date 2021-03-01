@@ -98,7 +98,7 @@ In general, you should be eating as many fruits and vegetables as humanly possib
 
 Bananas
 
-Berries (wild blueberries if possible)
+Berries ([wild blueberries](https://amzn.to/2Ob8hnw) if possible: fresh, frozen or in powder)
 
 Water/meat of coconuts
 
