@@ -72,7 +72,7 @@ Recap:
 
 <a href="https://www.amazon.com/Cranberry-300mg-Freeze-Dried-120-VegCap/dp/B00128SM4U?_encoding=UTF8&pd_rd_i=B00128SM4U&pd_rd_r=PEWPEK5VG8KXMZ5JCM08&pd_rd_w=W69Z8&pd_rd_wg=j3uJb&pf_rd_p=5d61ee21-c9c1-4f53-887e-8583c213529a&pf_rd_r=PEWPEK5VG8KXMZ5JCM08&psc=1&refRID=RYPA4MABHG3WJNMVRCBA&linkCode=li2&tag=thehumanitybo-20&linkId=fe1a6077be9258400d2aaa81a4c51558&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00128SM4U&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li2&o=1&a=B00128SM4U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-[](https://amzn.to/3sCCCKO)If you really need extra support and money is not an issue for you, I would also include these supplements into your regime: [oil of oregano](https://amzn.to/3kCi2HI), cat's claw, and goldenseal.
+[](https://amzn.to/3sCCCKO)If you really need extra support and money is not an issue for you, I would also include these supplements into your regime: [oil of oregano](https://amzn.to/3kCi2HI), [cat's claw](https://amzn.to/3sDNGHr), and [goldenseal](https://amzn.to/3kD0Ql9).
 
 All these supplements help eradicate strep.
 
