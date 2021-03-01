@@ -55,7 +55,7 @@ Monolaurin
 
 Lemon balm
 
-Cranberry pill
+[Cranberry pill](https://amzn.to/3sCCCKO)
 
 If you really need extra support and money is not an issue for you, I would also include these supplements into your regime: oregano oil, cat's claw, and goldenseal.
 
