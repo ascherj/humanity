@@ -33,9 +33,9 @@ I AM BEING SO SERIOUS. Please read these 3 books. These are my unbiased genuine 
 
 All of them have to do with the body, the mind or the mind-body connection:
 
-1. Medical Medium by Anthony William
-2. Becoming Supernatural by Dr. Joe Dispenza
-3. The Wim Hof Method by Wim Hof
+1. [Medical Medium by Anthony William](https://amzn.to/3dWqRdP)
+2. [Becoming Supernatural by Dr. Joe Dispenza](https://amzn.to/3riAibH)
+3. [The Wim Hof Method by Wim Hof](https://amzn.to/2MEIy6G)
 
 Let’s break it down:
 
