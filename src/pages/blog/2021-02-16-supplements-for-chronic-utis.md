@@ -52,7 +52,9 @@ Recap:
 
 **Supplements I take for maintenance:**
 
-Vitamin C:
+[Vitamin C:](https://amzn.to/301AVdG)
+
+<a href="https://www.amazon.com/American-Health-Ester-C-Citrus-Bioflavonoids/dp/B072KCDJJP?dchild=1&keywords=ester+c&qid=1614605498&s=hpc&sr=1-13-spons&psc=1&smid=A32GOXAC8X4KTS&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSlRZOVJaVE9KSUFYJmVuY3J5cHRlZElkPUEwMTU4MjYwMlVSVkFVQU1TVVJIUSZlbmNyeXB0ZWRBZElkPUEwODI4NjM5MVpFRUFBTk1MMzNGQyZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=li2&tag=thehumanitybo-20&linkId=6508c8847353784baef313c87098e8e8&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072KCDJJP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li2&o=1&a=B072KCDJJP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 [Zinc Sulfate:](https://amzn.to/3kKMHTj)
 
