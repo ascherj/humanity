@@ -55,9 +55,9 @@ Monolaurin
 
 Lemon balm
 
-[Cranberry pill](https://amzn.to/3sCCCKO)
+[Freeze Dried Cranberry Pills](https://amzn.to/3sCCCKO)
 
-If you really need extra support and money is not an issue for you, I would also include these supplements into your regime: oregano oil, cat's claw, and goldenseal.
+[](https://amzn.to/3sCCCKO)If you really need extra support and money is not an issue for you, I would also include these supplements into your regime: oregano oil, cat's claw, and goldenseal.
 
 All these supplements help eradicate strep.
 
