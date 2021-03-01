@@ -4,7 +4,7 @@ title: My fav 8 Vegan Youtubers
 date: 2021-01-11T17:57:19.359Z
 description: "  "
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/pexels-ella-olsson-1640770.jpg
 tags:
   - Vegan
   - Veganfood
