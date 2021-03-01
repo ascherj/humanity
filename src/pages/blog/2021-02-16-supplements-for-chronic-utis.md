@@ -42,8 +42,10 @@ Celery juice contains sodium cluster salts that attach themselves to the strep b
 
 Recap:
 
-* [U.T. Vibrance, Crisis Intervention Formula Supplement](<[U.T. Vibrance, Crisis Intervention Formula](https://www.amazon.com/Vibrant-Health-Intervention-D-Mannose-Vegetarian/dp/B00SK66UJG/ref=sr_1_3?crid=2PLHDR30P868D&dchild=1&keywords=uti+crisis+intervention&qid=1613911427&sprefix=UTI+crisis+%2Caps%2C410&sr=8-3)>)
-* 16-32 Oz celery juice daily
+* [U.T. Vibrance, Crisis Intervention Formula Supplement](https://amzn.to/3uI9mnB):
+
+  <a href="https://www.amazon.com/Vibrant-Health-Intervention-D-Mannose-Vegetarian/dp/B00014I6YC?dchild=1&keywords=*+%5BU.T.+Vibrance%2C+Crisis+Intervention+Formula+Supplement%5D%28%3C%5BU.T.+Vibrance%2C+Crisis+Intervention+Formula%5D%28https%3A%2F%2Fwww.amazon.com%2FVibrant-Health-Intervention-D-Mannose-Vegetarian%2Fdp%2FB00SK66UJG%2Fref%3Dsr_1_3%3Fcrid%3D2PLHDR30P868D%26dchild%3D1%26keywords%3Duti%2Bcrisis%2Bintervention%26qid%3D1613911427%26sprefix%3DUTI%2Bcrisis%2B%252Caps%252C410%26sr%3D8-3%29%3E%29&qid=1614604965&s=hpc&sr=1-1-fkmr0&linkCode=li2&tag=thehumanitybo-20&linkId=7775048255f6f46884638054c5882396&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00014I6YC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thehumanitybo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=thehumanitybo-20&language=en_US&l=li2&o=1&a=B00014I6YC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* [](https://amzn.to/3uI9mnB)16-32 Oz celery juice daily
 
 **Supplements I take for maintenance:**
 
