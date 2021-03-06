@@ -75,6 +75,12 @@ Recap:
 
 All these supplements help eradicate strep.
 
+Here is what to avoid when choosing supplements: CITRIC ACID, NATURAL FLAVORS, ALCOHOL, BOVINE DERIVATIVES, WHEY PROTEIN, CARNITINE & PRESERVATIVES. 
+
+These ingredients listed above can affect the strength and job of the supplements. Some of these factors can even affect your immune system negatively. Since you are already spending money and investing in these supplements for your health, you mind as well buy ones of the best quality to make it worth it.
+
+
+
 **Foods to avoid:** 
 
 When you have a UTI you should avoid eggs first and foremost. They use eggs in Petri dishes in labs to feed, grow and experiment with bacteria. The second is to avoid dairy products and if you are really committed and want to go all out, avoid corn, gluten, and canola oil. All these foods ultimately feed strep.
