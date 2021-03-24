@@ -16,6 +16,10 @@ tags:
 ---
 Looking for an all-natural homemade dreamy face cream? One that your face will start rejoicing in song once applied? Look no further.
 
+![](/img/img_0138_original.jpg)
+
+![](/img/img_0134_original.jpg)
+
 More than half of what we put on our skin gets absorbed into our bodies. This means that it eventually ends up in our bloodstream! This means that we should care what we put on it!!
 
 Especially our face aka the money maker ;)  
