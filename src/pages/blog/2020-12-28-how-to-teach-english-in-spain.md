@@ -68,7 +68,7 @@ The program I teach with is only about 16 hours a week so I have ample time for 
 
 Having a TEFL on your resume will only enhance your opportunities for finding a second job, especially if you do not have a college degree!
 
-If you want to teach in Spain but you do not want to go the public government route or through a set program, your other option is to find employment with a private employer; many of which will want to see a TEFL certification. 
+If you want to teach in Spain but you do not want to go the public government route or through a set program, your other option is to find employment with a private employer, many of which will want to see a TEFL certification. 
 
 TEFL certifications are also valid for life! Once you take the leap to teach abroad, it opens your mind to different possibilities and opportunities in the future. Who knows, you may start in Spain and find yourself in South Korea next. 
 
