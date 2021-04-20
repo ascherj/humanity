@@ -96,7 +96,7 @@ If you want to teach at private academies legally, many people also enroll in cl
 
 I do not have much information about the other programs listed above but I do know that some of them may have fees associated.
 
-**4. Make a budget.** This will vary based on your circumstances. Some people will come straight from college while others have a few year’s savings under their belt. 
+**4. Make a budget.** This will vary based on your circumstances. Some people will come straight from college while others have a few years of savings under their belt. 
 
 I will warn you, if you choose the program that I am in, they will pay late!!!!! Some regions will pay on time but I am currently in Valencia and I would STRONGLY encourage you to move with at least a couple of month’s savings.
 
