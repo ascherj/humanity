@@ -98,7 +98,7 @@ I do not have much information about the other programs listed above but I do kn
 
 **4. Make a budget.** This will vary based on your circumstances. Some people will come straight from college while others have a few years of savings under their belt. 
 
-I will warn you, if you choose the program that I am in, they will pay late!!!!! Some regions will pay on time but I am currently in Valencia and I would STRONGLY encourage you to move with at least a couple of month’s savings.
+I will warn you, if you choose the program that I am in, they will pay late!!!!! Some regions will pay on time but I am currently in Valencia and I would STRONGLY encourage you to move with at least a couple of months' savings.
 
 **5. Schedule appointments at your embassy!** Depending on which city you live in, your embassy may require an initial scheduled appointment or it may be walk-ins only. I went to the Washington DC consulate and it was walk-ins only.
 
