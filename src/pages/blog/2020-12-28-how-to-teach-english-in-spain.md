@@ -66,7 +66,7 @@ I still am TEFL certified because I was not 100% sure which country I wanted to 
 
 The program I teach with is only about 16 hours a week so I have ample time for a second job. I have done private tutoring lessons and have worked ‘under the table’ at private after-school English academies. 
 
-Having a TEFL on your resume will only enhance your opportunities for finding a second job; especially if you do not have a college degree!
+Having a TEFL on your resume will only enhance your opportunities for finding a second job, especially if you do not have a college degree!
 
 If you want to teach in Spain but you do not want to go the public government route or through a set program, your other option is to find employment with a private employer; many of which will want to see a TEFL certification. 
 
