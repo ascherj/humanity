@@ -104,7 +104,7 @@ I will warn you, if you choose the program that I am in, they will pay late!!!!!
 
 If it is walk-ins only, I would advise not going on the first of the month. I have always noticed a longer line those days. With Covid, everything may require an appointment now. I would double-check on your embassy’s website.
 
-You are able to apply for your visa up to 90 days before the start of your program. You need to bring a notarized criminal background check, medical certificate, national visa application form, one passport-sized photo, your passport, proof of employment at your school, and proof of income. This is specifically for the long term student visa.
+You are able to apply for your visa up to 90 days before the start of your program. You need to bring a notarized criminal background check, medical certificate, national visa application form, one passport-sized photo, your passport, proof of employment at your school, and proof of income. This is specifically for the long-term student visa.
 
 There are also fees associated. Please check your embassy’s website for the correct forms and fee amounts.  
 
