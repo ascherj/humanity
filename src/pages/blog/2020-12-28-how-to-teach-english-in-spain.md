@@ -27,7 +27,7 @@ If you’re wishing and dreaming of experiencing life in Spain but fear is holdi
 
 I was what you call a ‘homebody’ just a few years ago. I grew up, went to college, and worked in the DC area my whole life. I went home every Sunday in college and for the next two years after graduation. 
 
-Once I broke the news to my 3 roommates that I would not be renewing our lease, they said that I was the last person they thought would be a flight risk haha.
+Once I broke the news to my three roommates that I would not be renewing our lease, they said that I was the last person they thought would be a flight risk haha.
 
 The back story is that I went on a work trip to Barcelona. While I was there, something clicked and I realized that I have been in a DC bubble my whole life. 
 
