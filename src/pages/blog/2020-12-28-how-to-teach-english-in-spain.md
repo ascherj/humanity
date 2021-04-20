@@ -19,7 +19,7 @@ Some of you may be ready to book your plane ticket tomorrow, while some of you a
 
 I have been teaching English in Spain for almost two years now through the Auxiliares de Conversación program. In this post, I will share my journey and what resources I used to turn my crazy idea into my current reality. 
 
-**If you are just looking for the resources and logistic part of this article, scroll a tad and you will find a helpful list :)**
+**If you are just looking for the resources and logistics part of this article, scroll down a tad and you will find a helpful list :)**
 
 If you want a little extra hype and encouragement, keep reading! 
 
