@@ -159,7 +159,7 @@ Below are some other popular sites:
 * [Qkids](https://teacher.qkids.com/)
 * Palfish - download the app
 
-I actually made an account with Cambly and got approved while I was still in the US in September but did not teach my actual first lesson until March. 
+I actually made an account with Cambly and got approved while I was still in the US in September but did not teach my actual first lesson until the following March. 
 
 **10. Book your flight!!!!** Hiring seasons and program start dates are usually around September/October with an alternative hiring season in January. 
 
