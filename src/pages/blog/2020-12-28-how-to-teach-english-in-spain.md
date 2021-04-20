@@ -58,7 +58,7 @@ I will admit, this TEFL program is a little on the expensive side but after a lo
 
 Apparently, they are offering flexible payment plans now due to Covid. They may offer some discounts as well...I would just ask! That’s what I did :)
 
-I am sure there are also plenty of other reputable TEFL certification companies that people love but I can not speak to any of them since I have only taken ITA’s course. 
+I am sure there are also plenty of other reputable TEFL certification companies that people love but I cannot speak to any of them since I have only taken ITA’s course. 
 
 The Auxiliares de Conversación program or also called The North American Language and Culture Assistants Program is the government program that I am currently teaching through. This program only requires a college degree or for you to be in your junior or senior year of a BA or BS program. They do not require a TEFL certification. 
 
