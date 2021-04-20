@@ -133,7 +133,7 @@ Some people have had some luck with long-term [Air Bnb.](https://www.airbnb.com/
 
 You can also ask any specific question you may have or search the group for general information. I still use it as a constant resource 1.5 years in. There are a ton of region-specific pages!
 
-I live in the center of Valencia and here are some examples of pages that I am apart of:
+I live in the center of Valencia and here are some examples of pages that I am a part of:
 
 * [Girls in Valencia](https://www.facebook.com/groups/girlsinvalencia)
 * [Auxiliares de Conversación en Valencia](https://www.facebook.com/groups/auxiliaresVLC)
