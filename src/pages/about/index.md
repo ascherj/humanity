@@ -9,7 +9,7 @@ title: About Humanity (coming soon!)
 
 Hi guys! I'm Shayna. Welcome! I am the author of “Humanity”. For the past fews years I would say to my family, “I'm going to write a book...blah blah blah”. One day while walking to work, I decided I was tired of the laundry list of things I said I wanted to try or accomplish but never did. I decided to finally put my money where my mouth was and...well here we are. Yay!
 
-I’ll be up front. I have zero qualifications to write a book or start a blog. I studied animal science in college and to be honest, I took like one English class during that time. My parents even enrolled me in a remedial speed reading class in high school because I could never finish my SATs in time. I just like to take my time and read every word...what can I say?
+I’ll be upfront. I have zero qualifications to write a book or start a blog. I studied animal science in college and to be honest, I took like one English class during that time. My parents even enrolled me in a remedial speed-reading class in high school because I could never finish my SATs in time. I just like to take my time and read every word...what can I say?
 
 As I write this, I am currently an English teacher in Spain. Before you think, “Hey! You liar! You're an English teacher for goodness sake!”. This was never part of the plan. And a little secret: it's the easiest way to get a visa in Spain. Oops. But I am enjoying every second of it.
 
